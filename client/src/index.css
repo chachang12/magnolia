@@ -1,0 +1,89 @@
+@import "tailwindcss";
+
+/* Custom component styles for Tailwind v4 */
+.btn {
+  padding: 1.5rem 1.5rem;
+  border-radius: 0.5rem;
+  font-weight: 500;
+  transition: all 0.2s;
+  outline: none;
+}
+
+.btn:focus {
+  box-shadow: 0 0 0 2px rgba(66, 153, 225, 0.5);
+}
+
+.btn-primary {
+  background-color: #667eea;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #5a67d8;
+}
+
+.btn-warning {
+  background-color: #f56500;
+  color: white;
+}
+
+.btn-warning:hover {
+  background-color: #dd6b20;
+}
+
+.btn-danger {
+  background-color: #e53e3e;
+  color: white;
+}
+
+.btn-danger:hover {
+  background-color: #c53030;
+}
+
+.status-badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.status-running {
+  background-color: #f0fff4;
+  color: #2d3748;
+}
+
+.status-stopped {
+  background-color: #f7fafc;
+  color: #2d3748;
+}
+
+.status-starting {
+  background-color: #ebf8ff;
+  color: #2d3748;
+}
+
+.status-error {
+  background-color: #fed7d7;
+  color: #2d3748;
+}
+
+.connection-status {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  z-index: 50;
+}
+
+.connection-connected {
+  background-color: #f0fff4;
+  color: #2d3748;
+}
+
+.connection-disconnected {
+  background-color: #fed7d7;
+  color: #2d3748;
+}

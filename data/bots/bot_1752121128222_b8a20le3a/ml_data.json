@@ -1,0 +1,2015 @@
+[
+    {
+        "id": "123456",
+        "url": "https://ebay.com/itm/123456",
+        "title": "Shop on eBay",
+        "price": "$20.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.737Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "Unknown",
+            "location": "Unknown",
+            "shipping": "Unknown",
+            "priceDetails": {
+                "rawPrice": "$20.00or Best OfferSponsored",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": ""
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Shop on eBay",
+            "price": "$20.00",
+            "url": "https://ebay.com/itm/123456",
+            "description": "Condition: Brand New\nShipping: Unknown\nSeller: Unknown\nLocation: Unknown",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.738Z",
+                "itemId": "123456"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "116685711466",
+        "url": "https://www.ebay.com/itm/116685711466",
+        "title": "New ListingNintendo Switch Console TV Dock Station Charging Base Station HAC-007",
+        "price": "$29.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.744Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "martjaso.ed8gt (42) 100%",
+            "location": "Located in United States",
+            "shipping": "$5.94",
+            "priceDetails": {
+                "rawPrice": "$29.99or Best Offer+$5.94 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.94"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Console TV Dock Station Charging Base Station HAC-007",
+            "price": "$29.99",
+            "url": "https://www.ebay.com/itm/116685711466",
+            "description": "Condition: Pre-Owned\nShipping: $5.94\nSeller: martjaso.ed8gt (42) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.744Z",
+                "itemId": "116685711466"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "116685631607",
+        "url": "https://www.ebay.com/itm/116685631607",
+        "title": "New ListingNintendo Switch (Original HAC-001) Console – Black – 32GB Internal Storage",
+        "price": "$78.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.747Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gys3ui2 (190) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.00",
+            "priceDetails": {
+                "rawPrice": "$78.00or Best Offer+$8.00 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$8.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch (Original HAC-001) Console – Black – 32GB Internal Storage",
+            "price": "$78.00",
+            "url": "https://www.ebay.com/itm/116685631607",
+            "description": "Condition: Pre-Owned\nShipping: $8.00\nSeller: gys3ui2 (190) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.747Z",
+                "itemId": "116685631607"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "336058174353",
+        "url": "https://www.ebay.com/itm/336058174353",
+        "title": "New ListingNintendo Switch Dock Set – Charging Dock + Joy-Con Grip + Straps – No Console",
+        "price": "$24.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.750Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "coopermurphy-1 (10) 100%",
+            "location": "Located in United States",
+            "shipping": "$6.34",
+            "priceDetails": {
+                "rawPrice": "$24.99or Best Offer+$6.34 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$6.34"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Dock Set – Charging Dock + Joy-Con Grip + Straps – No Console",
+            "price": "$24.99",
+            "url": "https://www.ebay.com/itm/336058174353",
+            "description": "Condition: Pre-Owned\nShipping: $6.34\nSeller: coopermurphy-1 (10) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.750Z",
+                "itemId": "336058174353"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "257009742749",
+        "url": "https://www.ebay.com/itm/257009742749",
+        "title": "New ListingNintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+        "price": "$18.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.753Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "bookaddicts (6,374) 99.8%",
+            "location": "Located in United States",
+            "shipping": "$7.99",
+            "priceDetails": {
+                "rawPrice": "$18.99or Best Offer+$7.99 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$7.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+            "price": "$18.99",
+            "url": "https://www.ebay.com/itm/257009742749",
+            "description": "Condition: Pre-Owned\nShipping: $7.99\nSeller: bookaddicts (6,374) 99.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.753Z",
+                "itemId": "257009742749"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "146699228884",
+        "url": "https://www.ebay.com/itm/146699228884",
+        "title": "New ListingPDP Gaming Pull-N-Go Nintendo Switch Travel Case, 2-in-1 Console and Accessor...",
+        "price": "$15.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.756Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "crosl_sea (64) 100%",
+            "location": "Located in United States",
+            "shipping": "$4.57",
+            "priceDetails": {
+                "rawPrice": "$15.00Buy It Now+$4.57 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$4.57"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingPDP Gaming Pull-N-Go Nintendo Switch Travel Case, 2-in-1 Console and Accessor...",
+            "price": "$15.00",
+            "url": "https://www.ebay.com/itm/146699228884",
+            "description": "Condition: Pre-Owned\nShipping: $4.57\nSeller: crosl_sea (64) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.756Z",
+                "itemId": "146699228884"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "157157734350",
+        "url": "https://www.ebay.com/itm/157157734350",
+        "title": "New ListingNintendo Switch Console Dock ONLY Charging Base Station",
+        "price": "$26.41",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.759Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "tommyb1101 (5,705) 98%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$26.41Was: $27.805% offor Best OfferFree deliveryLocated in United StatesFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Console Dock ONLY Charging Base Station",
+            "price": "$26.41",
+            "url": "https://www.ebay.com/itm/157157734350",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: tommyb1101 (5,705) 98%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.759Z",
+                "itemId": "157157734350"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "146697616123",
+        "url": "https://www.ebay.com/itm/146697616123",
+        "title": "OEM Nintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+        "price": "$19.69",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.761Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "treasurefinds248 (2,040) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$19.69or Best OfferFree deliveryLocated in United StatesFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "OEM Nintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+            "price": "$19.69",
+            "url": "https://www.ebay.com/itm/146697616123",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: treasurefinds248 (2,040) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.761Z",
+                "itemId": "146697616123"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "297458115179",
+        "url": "https://www.ebay.com/itm/297458115179",
+        "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console",
+        "price": "$5.15",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.765Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "maddemon (1,847) 98.9%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$5.15or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console",
+            "price": "$5.15",
+            "url": "https://www.ebay.com/itm/297458115179",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: maddemon (1,847) 98.9%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.765Z",
+                "itemId": "297458115179"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "297458093731",
+        "url": "https://www.ebay.com/itm/297458093731",
+        "title": "Console Wlan WIFI Bluetooth KUBG BGA IC Chip CYW4356X For Nintendo Switch Lite C",
+        "price": "$9.23",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.768Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "maddemon (1,847) 98.9%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$9.23or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Console Wlan WIFI Bluetooth KUBG BGA IC Chip CYW4356X For Nintendo Switch Lite C",
+            "price": "$9.23",
+            "url": "https://www.ebay.com/itm/297458093731",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: maddemon (1,847) 98.9%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.768Z",
+                "itemId": "297458093731"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "226856223471",
+        "url": "https://www.ebay.com/itm/226856223471",
+        "title": "Nintendo Switch Console And Game Case Cartridge Holder Scream Ghostface",
+        "price": "$19.97",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.771Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "bazstubpont (995) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.00",
+            "priceDetails": {
+                "rawPrice": "$19.97or Best Offer+$9.00 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$9.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console And Game Case Cartridge Holder Scream Ghostface",
+            "price": "$19.97",
+            "url": "https://www.ebay.com/itm/226856223471",
+            "description": "Condition: Pre-Owned\nShipping: $9.00\nSeller: bazstubpont (995) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.771Z",
+                "itemId": "226856223471"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127221528777",
+        "url": "https://www.ebay.com/itm/127221528777",
+        "title": "OEM Nintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+        "price": "$49.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.774Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "neltay-84 (1,438) 98.9%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$49.99or Best OfferFree deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "OEM Nintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+            "price": "$49.99",
+            "url": "https://www.ebay.com/itm/127221528777",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: neltay-84 (1,438) 98.9%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.774Z",
+                "itemId": "127221528777"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357252822406",
+        "url": "https://www.ebay.com/itm/357252822406",
+        "title": "Nintendo Switch Lite 32GB Handheld Console - Yellow",
+        "price": "$70.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.776Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "ivaberl_0 (0) 0%",
+            "location": "Located in United States",
+            "shipping": "$7.36",
+            "priceDetails": {
+                "rawPrice": "$70.00or Best Offer+$7.36 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$7.36"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite 32GB Handheld Console - Yellow",
+            "price": "$70.00",
+            "url": "https://www.ebay.com/itm/357252822406",
+            "description": "Condition: Pre-Owned\nShipping: $7.36\nSeller: ivaberl_0 (0) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.776Z",
+                "itemId": "357252822406"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357252276201",
+        "url": "https://www.ebay.com/itm/357252276201",
+        "title": "Nintendo Switch Console System E3 2016 Promotional Red Mesh Cap Hat Small Port",
+        "price": "$29.95",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.779Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "valuemade (2,338) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$29.95Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console System E3 2016 Promotional Red Mesh Cap Hat Small Port",
+            "price": "$29.95",
+            "url": "https://www.ebay.com/itm/357252276201",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: valuemade (2,338) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.779Z",
+                "itemId": "357252276201"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177251340997",
+        "url": "https://www.ebay.com/itm/177251340997",
+        "title": "Nintendo DS Switch N Carry Console and Game Travel Case (Navy Blue/Black)VINTAGE",
+        "price": "$11.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.782Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "briso6551 (3,405) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$11.99or Best OfferFree deliveryLocated in United StatesFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo DS Switch N Carry Console and Game Travel Case (Navy Blue/Black)VINTAGE",
+            "price": "$11.99",
+            "url": "https://www.ebay.com/itm/177251340997",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: briso6551 (3,405) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.782Z",
+                "itemId": "177251340997"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "267317239140",
+        "url": "https://www.ebay.com/itm/267317239140",
+        "title": "Protective Grip Hard Case Cover For Nintendo Switch Console + 5 Game card slot",
+        "price": "$6.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.785Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "betterdeals58 (592) 99.1%",
+            "location": "Located in United States",
+            "shipping": "$5.21",
+            "priceDetails": {
+                "rawPrice": "$6.99or Best Offer+$5.21 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.21"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Protective Grip Hard Case Cover For Nintendo Switch Console + 5 Game card slot",
+            "price": "$6.99",
+            "url": "https://www.ebay.com/itm/267317239140",
+            "description": "Condition: Pre-Owned\nShipping: $5.21\nSeller: betterdeals58 (592) 99.1%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.785Z",
+                "itemId": "267317239140"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "286698128710",
+        "url": "https://www.ebay.com/itm/286698128710",
+        "title": "New ListingNintendo Switch Dock Console Authentic Black HDMI USB Charging Hub Genuine OEM",
+        "price": "$15.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.788Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "southern-sports-cards (821) 99.4%",
+            "location": "Located in United States",
+            "shipping": "$6.50",
+            "priceDetails": {
+                "rawPrice": "$15.99or Best Offer+$6.50 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$6.50"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Dock Console Authentic Black HDMI USB Charging Hub Genuine OEM",
+            "price": "$15.99",
+            "url": "https://www.ebay.com/itm/286698128710",
+            "description": "Condition: Pre-Owned\nShipping: $6.50\nSeller: southern-sports-cards (821) 99.4%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.788Z",
+                "itemId": "286698128710"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396833504096",
+        "url": "https://www.ebay.com/itm/396833504096",
+        "title": "Nintendo Switch Console Dock Station Charging with Fire Emblem Warriors Stickers",
+        "price": "$29.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.791Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "rare_rarities (1,138) 99.7%",
+            "location": "Located in United States",
+            "shipping": "$9.00",
+            "priceDetails": {
+                "rawPrice": "$29.99or Best Offer+$9.00 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$9.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console Dock Station Charging with Fire Emblem Warriors Stickers",
+            "price": "$29.99",
+            "url": "https://www.ebay.com/itm/396833504096",
+            "description": "Condition: Pre-Owned\nShipping: $9.00\nSeller: rare_rarities (1,138) 99.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.791Z",
+                "itemId": "396833504096"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "306385326363",
+        "url": "https://www.ebay.com/itm/306385326363",
+        "title": "Carrying Case Nintendo Switch OLED Console Game Handbag Full Travel Protection",
+        "price": "$7.50",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.793Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "giggygoods (152) 100%",
+            "location": "Located in United States",
+            "shipping": "$5.00",
+            "priceDetails": {
+                "rawPrice": "$7.50or Best Offer+$5.00 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Carrying Case Nintendo Switch OLED Console Game Handbag Full Travel Protection",
+            "price": "$7.50",
+            "url": "https://www.ebay.com/itm/306385326363",
+            "description": "Condition: Pre-Owned\nShipping: $5.00\nSeller: giggygoods (152) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.793Z",
+                "itemId": "306385326363"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396833141822",
+        "url": "https://www.ebay.com/itm/396833141822",
+        "title": "Nintendo Switch Controller Grip Black Compatible with Switch Console Used",
+        "price": "$71.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.796Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "nagoya-jp (32) 100%",
+            "location": "Located in Japan",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$71.99or Best OfferFree deliveryLocated in JapanFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Controller Grip Black Compatible with Switch Console Used",
+            "price": "$71.99",
+            "url": "https://www.ebay.com/itm/396833141822",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: nagoya-jp (32) 100%\nLocation: Located in Japan",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.796Z",
+                "itemId": "396833141822"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "205602133651",
+        "url": "https://www.ebay.com/itm/205602133651",
+        "title": "Official Nintendo DS Switch N Carry Clip Console Game Case Travel Bag Black",
+        "price": "$14.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.799Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "thejman114 (1,248) 100%",
+            "location": "Located in United States",
+            "shipping": "$5.14",
+            "priceDetails": {
+                "rawPrice": "$14.99or Best Offer+$5.14 deliveryLocated in United StatesFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.14"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Official Nintendo DS Switch N Carry Clip Console Game Case Travel Bag Black",
+            "price": "$14.99",
+            "url": "https://www.ebay.com/itm/205602133651",
+            "description": "Condition: Pre-Owned\nShipping: $5.14\nSeller: thejman114 (1,248) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.799Z",
+                "itemId": "205602133651"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236186254778",
+        "url": "https://www.ebay.com/itm/236186254778",
+        "title": "Nintendo Switch Console Screen TV Dock Station With AC Adapter & HDMI HAC-007",
+        "price": "$34.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.801Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "hootsgadgets (193) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$34.99Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console Screen TV Dock Station With AC Adapter & HDMI HAC-007",
+            "price": "$34.99",
+            "url": "https://www.ebay.com/itm/236186254778",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: hootsgadgets (193) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.801Z",
+                "itemId": "236186254778"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "317061369447",
+        "url": "https://www.ebay.com/itm/317061369447",
+        "title": "Nintendo Switch Console TV Dock Station Charging Base Station HAC-007 TESTED",
+        "price": "$26.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.804Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "kymism219 (464) 98.8%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$26.99or Best OfferFree deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console TV Dock Station Charging Base Station HAC-007 TESTED",
+            "price": "$26.99",
+            "url": "https://www.ebay.com/itm/317061369447",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: kymism219 (464) 98.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.804Z",
+                "itemId": "317061369447"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236185999210",
+        "url": "https://www.ebay.com/itm/236185999210",
+        "title": "Nintendo Switch Console TV Dock Station With AC Adapter  & Extras HAC-007 *READ",
+        "price": "$34.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.807Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "hootsgadgets (193) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$34.99Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console TV Dock Station With AC Adapter  & Extras HAC-007 *READ",
+            "price": "$34.99",
+            "url": "https://www.ebay.com/itm/236185999210",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: hootsgadgets (193) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.807Z",
+                "itemId": "236185999210"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "205600341126",
+        "url": "https://www.ebay.com/itm/205600341126",
+        "title": "Animal Crossing Special Edition EMPTY BOX & INSERTS ONLY Nintendo Switch Console",
+        "price": "$20.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.810Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "brandnewse_13 (2,359) 99.6%",
+            "location": "Located in United States",
+            "shipping": "$9.00",
+            "priceDetails": {
+                "rawPrice": "$20.00Was: $25.0020% offor Best Offer+$9.00 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$9.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Animal Crossing Special Edition EMPTY BOX & INSERTS ONLY Nintendo Switch Console",
+            "price": "$20.00",
+            "url": "https://www.ebay.com/itm/205600341126",
+            "description": "Condition: Pre-Owned\nShipping: $9.00\nSeller: brandnewse_13 (2,359) 99.6%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.810Z",
+                "itemId": "205600341126"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "388675637899",
+        "url": "https://www.ebay.com/itm/388675637899",
+        "title": "Console Wlan WIFI Bluetooth KUBG BGA IC Chip CYW4356X For Nintendo Switch Lite",
+        "price": "$9.23",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.813Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "moonmoon_a (881) 98.6%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$9.23or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Console Wlan WIFI Bluetooth KUBG BGA IC Chip CYW4356X For Nintendo Switch Lite",
+            "price": "$9.23",
+            "url": "https://www.ebay.com/itm/388675637899",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: moonmoon_a (881) 98.6%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.813Z",
+                "itemId": "388675637899"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "388675618670",
+        "url": "https://www.ebay.com/itm/388675618670",
+        "title": "Original Power Switch Motherboard Circuit Board For Nintendo WII U Pad Console G",
+        "price": "$5.53",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.816Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "moonmoon_a (881) 98.6%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$5.53or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Original Power Switch Motherboard Circuit Board For Nintendo WII U Pad Console G",
+            "price": "$5.53",
+            "url": "https://www.ebay.com/itm/388675618670",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: moonmoon_a (881) 98.6%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.816Z",
+                "itemId": "388675618670"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "388675493582",
+        "url": "https://www.ebay.com/itm/388675493582",
+        "title": "Original EMMC 32G Memory Module PCB Board for Nintendo Switch NS Console a",
+        "price": "$18.46",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.819Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "moonmoon_a (881) 98.6%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$18.46or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Original EMMC 32G Memory Module PCB Board for Nintendo Switch NS Console a",
+            "price": "$18.46",
+            "url": "https://www.ebay.com/itm/388675493582",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: moonmoon_a (881) 98.6%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.819Z",
+                "itemId": "388675493582"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "388675478672",
+        "url": "https://www.ebay.com/itm/388675478672",
+        "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console D",
+        "price": "$5.15",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.821Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "moonmoon_a (881) 98.6%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$5.15or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console D",
+            "price": "$5.15",
+            "url": "https://www.ebay.com/itm/388675478672",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: moonmoon_a (881) 98.6%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.821Z",
+                "itemId": "388675478672"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "388674683107",
+        "url": "https://www.ebay.com/itm/388674683107",
+        "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console",
+        "price": "$5.15",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.823Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "aijie_tom (606) 99.4%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$5.15or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console",
+            "price": "$5.15",
+            "url": "https://www.ebay.com/itm/388674683107",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: aijie_tom (606) 99.4%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.823Z",
+                "itemId": "388674683107"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "388674662211",
+        "url": "https://www.ebay.com/itm/388674662211",
+        "title": "Console Wlan WIFI Bluetooth KUBG BGA IC Chip CYW4356X For Nintendo Switch Lite C",
+        "price": "$9.32",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.825Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "aijie_tom (606) 99.4%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$9.32or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Console Wlan WIFI Bluetooth KUBG BGA IC Chip CYW4356X For Nintendo Switch Lite C",
+            "price": "$9.32",
+            "url": "https://www.ebay.com/itm/388674662211",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: aijie_tom (606) 99.4%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.825Z",
+                "itemId": "388674662211"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "167630381514",
+        "url": "https://www.ebay.com/itm/167630381514",
+        "title": "OEM Genuine Nintendo Switch Console TV Charging Dock Station Only HAC-007 Tested",
+        "price": "$19.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.828Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "father_of_four_chicas (2,523) 96.7%",
+            "location": "Located in United States",
+            "shipping": "$9.10",
+            "priceDetails": {
+                "rawPrice": "$19.99Buy It Now+$9.10 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$9.10"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "OEM Genuine Nintendo Switch Console TV Charging Dock Station Only HAC-007 Tested",
+            "price": "$19.99",
+            "url": "https://www.ebay.com/itm/167630381514",
+            "description": "Condition: Pre-Owned\nShipping: $9.10\nSeller: father_of_four_chicas (2,523) 96.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.828Z",
+                "itemId": "167630381514"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "157150705678",
+        "url": "https://www.ebay.com/itm/157150705678",
+        "title": "Nintendo NES Console, Controller, AC Adapter RFU Switch",
+        "price": "$79.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.830Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "jfg_logistical (6,718) 98.5%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$79.99or Best OfferFree deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo NES Console, Controller, AC Adapter RFU Switch",
+            "price": "$79.99",
+            "url": "https://www.ebay.com/itm/157150705678",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: jfg_logistical (6,718) 98.5%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.830Z",
+                "itemId": "157150705678"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "376386170030",
+        "url": "https://www.ebay.com/itm/376386170030",
+        "title": "Nintendo Switch Mario Kart 8 Deluxe HAC-001 With Dock Box ONLY NO CONSOLE",
+        "price": "$49.95",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.833Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "tp1331 (4,582) 98.4%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$49.95Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Mario Kart 8 Deluxe HAC-001 With Dock Box ONLY NO CONSOLE",
+            "price": "$49.95",
+            "url": "https://www.ebay.com/itm/376386170030",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: tp1331 (4,582) 98.4%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.834Z",
+                "itemId": "376386170030"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "297452201348",
+        "url": "https://www.ebay.com/itm/297452201348",
+        "title": "Red Hard Shell Travel Case for Nintendo Switch or Lite Console & Accessories",
+        "price": "$11.60",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.837Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "jmboatwright27 (1,230) 100%",
+            "location": "Located in United States",
+            "shipping": "$5.21",
+            "priceDetails": {
+                "rawPrice": "$11.60Was: $12.8910% offor Best Offer+$5.21 deliveryLocated in United StatesFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.21"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Red Hard Shell Travel Case for Nintendo Switch or Lite Console & Accessories",
+            "price": "$11.60",
+            "url": "https://www.ebay.com/itm/297452201348",
+            "description": "Condition: Pre-Owned\nShipping: $5.21\nSeller: jmboatwright27 (1,230) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.837Z",
+                "itemId": "297452201348"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "317058630213",
+        "url": "https://www.ebay.com/itm/317058630213",
+        "title": "Animal Crossing Nintendo Switch Console Carry Case - Aus Postage",
+        "price": "$18.28",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.839Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gaming-gods (10) 100%",
+            "location": "Located in Australia",
+            "shipping": "$18.94",
+            "priceDetails": {
+                "rawPrice": "$18.28or Best Offer+$18.94 deliveryLocated in Australia",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$18.94"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Animal Crossing Nintendo Switch Console Carry Case - Aus Postage",
+            "price": "$18.28",
+            "url": "https://www.ebay.com/itm/317058630213",
+            "description": "Condition: Pre-Owned\nShipping: $18.94\nSeller: gaming-gods (10) 100%\nLocation: Located in Australia",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.839Z",
+                "itemId": "317058630213"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "365712861536",
+        "url": "https://www.ebay.com/itm/365712861536",
+        "title": "Nintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+        "price": "$30.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.841Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "robertmo-39 (0) 0%",
+            "location": "Located in United States",
+            "shipping": "$5.91",
+            "priceDetails": {
+                "rawPrice": "$30.00Buy It Now+$5.91 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$5.91"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+            "price": "$30.00",
+            "url": "https://www.ebay.com/itm/365712861536",
+            "description": "Condition: Pre-Owned\nShipping: $5.91\nSeller: robertmo-39 (0) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.841Z",
+                "itemId": "365712861536"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127216070964",
+        "url": "https://www.ebay.com/itm/127216070964",
+        "title": "OEM Nintendo Switch Dock HAC-007 Console Charging TV Docking Station Base",
+        "price": "$25.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.843Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "jrvols (1,052) 99.1%",
+            "location": "Located in United States",
+            "shipping": "$7.50",
+            "priceDetails": {
+                "rawPrice": "$25.00or Best Offer+$7.50 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$7.50"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "OEM Nintendo Switch Dock HAC-007 Console Charging TV Docking Station Base",
+            "price": "$25.00",
+            "url": "https://www.ebay.com/itm/127216070964",
+            "description": "Condition: Pre-Owned\nShipping: $7.50\nSeller: jrvols (1,052) 99.1%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.843Z",
+                "itemId": "127216070964"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "197499653170",
+        "url": "https://www.ebay.com/itm/197499653170",
+        "title": "Nintendo Switch Mario Kart Deluxe Travel Case for Switch Console",
+        "price": "$12.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.845Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "brenna217 (300) 100%",
+            "location": "Located in United States",
+            "shipping": "$12.99",
+            "priceDetails": {
+                "rawPrice": "$12.00or Best Offer+$12.99 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$12.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Mario Kart Deluxe Travel Case for Switch Console",
+            "price": "$12.00",
+            "url": "https://www.ebay.com/itm/197499653170",
+            "description": "Condition: Pre-Owned\nShipping: $12.99\nSeller: brenna217 (300) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.845Z",
+                "itemId": "197499653170"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357226097790",
+        "url": "https://www.ebay.com/itm/357226097790",
+        "title": "Nintendo Switch Console Docking Base Station With Nintendo HDMI Cable Used Works",
+        "price": "$25.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.858Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "lu72127336 (0) 0%",
+            "location": "Located in United States",
+            "shipping": "$7.01",
+            "priceDetails": {
+                "rawPrice": "$25.00or Best Offer+$7.01 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$7.01"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console Docking Base Station With Nintendo HDMI Cable Used Works",
+            "price": "$25.00",
+            "url": "https://www.ebay.com/itm/357226097790",
+            "description": "Condition: Pre-Owned\nShipping: $7.01\nSeller: lu72127336 (0) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.858Z",
+                "itemId": "357226097790"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "187388209259",
+        "url": "https://www.ebay.com/itm/187388209259",
+        "title": "Nintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+        "price": "$19.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.860Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "rogcrk (410) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.01",
+            "priceDetails": {
+                "rawPrice": "$19.99Buy It Now+$7.01 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$7.01"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console Screen TV Dock Station Charging Base Station HAC-007",
+            "price": "$19.99",
+            "url": "https://www.ebay.com/itm/187388209259",
+            "description": "Condition: Pre-Owned\nShipping: $7.01\nSeller: rogcrk (410) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.860Z",
+                "itemId": "187388209259"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177242380536",
+        "url": "https://www.ebay.com/itm/177242380536",
+        "title": "ABXY Button Disassemble Switch PCB Motherboard For Nintendo New 3DS Console",
+        "price": "$16.06",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.863Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "mmee56 (0) 0%",
+            "location": "Located in China",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$16.06Was: $18.8915% offor Best OfferFree deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "ABXY Button Disassemble Switch PCB Motherboard For Nintendo New 3DS Console",
+            "price": "$16.06",
+            "url": "https://www.ebay.com/itm/177242380536",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: mmee56 (0) 0%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.863Z",
+                "itemId": "177242380536"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177242379784",
+        "url": "https://www.ebay.com/itm/177242379784",
+        "title": "Replacement For Nintendo Switch Console Storage Host EMMC 32G Memory Module",
+        "price": "$16.06",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.865Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "mmee56 (0) 0%",
+            "location": "Located in China",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$16.06Was: $18.8915% offor Best OfferFree deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Replacement For Nintendo Switch Console Storage Host EMMC 32G Memory Module",
+            "price": "$16.06",
+            "url": "https://www.ebay.com/itm/177242379784",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: mmee56 (0) 0%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.865Z",
+                "itemId": "177242379784"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "297450124235",
+        "url": "https://www.ebay.com/itm/297450124235",
+        "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console A",
+        "price": "$7.03",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.867Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "oneworld_h (397) 98.7%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$7.03or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console A",
+            "price": "$7.03",
+            "url": "https://www.ebay.com/itm/297450124235",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: oneworld_h (397) 98.7%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.867Z",
+                "itemId": "297450124235"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "297450111682",
+        "url": "https://www.ebay.com/itm/297450111682",
+        "title": "1*Console Wlan WIFI Bluetooth IC Chip CYW4356X for Nintendo Switch Lite HDH-001",
+        "price": "$9.23",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.869Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "oneworld_h (397) 98.7%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$9.23or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "1*Console Wlan WIFI Bluetooth IC Chip CYW4356X for Nintendo Switch Lite HDH-001",
+            "price": "$9.23",
+            "url": "https://www.ebay.com/itm/297450111682",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: oneworld_h (397) 98.7%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.869Z",
+                "itemId": "297450111682"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "297449608314",
+        "url": "https://www.ebay.com/itm/297449608314",
+        "title": "Ensemble Stars Office Poster for Nintendo Switch Console",
+        "price": "$40.50",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.871Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "kendama_999 (910) 100%",
+            "location": "Located in Japan",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$40.50Was: $45.0010% offor Best OfferFree deliveryLocated in Japan",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Ensemble Stars Office Poster for Nintendo Switch Console",
+            "price": "$40.50",
+            "url": "https://www.ebay.com/itm/297449608314",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: kendama_999 (910) 100%\nLocation: Located in Japan",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.871Z",
+                "itemId": "297449608314"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "197496742665",
+        "url": "https://www.ebay.com/itm/197496742665",
+        "title": "Hyperkin RetroN S64 Console Dock for Nintendo Switch and Switch OLED - Purple",
+        "price": "$24.95",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.873Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "zaptso (316) 98.9%",
+            "location": "Located in United States",
+            "shipping": "$7.95",
+            "priceDetails": {
+                "rawPrice": "$24.95Buy It Now+$7.95 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$7.95"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Hyperkin RetroN S64 Console Dock for Nintendo Switch and Switch OLED - Purple",
+            "price": "$24.95",
+            "url": "https://www.ebay.com/itm/197496742665",
+            "description": "Condition: Pre-Owned\nShipping: $7.95\nSeller: zaptso (316) 98.9%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.873Z",
+                "itemId": "197496742665"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "205595396125",
+        "url": "https://www.ebay.com/itm/205595396125",
+        "title": "Adventure Time BMO for Nintendo Switch Console Stand Holder Case Turquoise",
+        "price": "$16.49",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.875Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "jando_online (3,531) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.99",
+            "priceDetails": {
+                "rawPrice": "$16.49Was: $21.9925% offor Best Offer+$7.99 deliveryLocated in United StatesFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$7.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Adventure Time BMO for Nintendo Switch Console Stand Holder Case Turquoise",
+            "price": "$16.49",
+            "url": "https://www.ebay.com/itm/205595396125",
+            "description": "Condition: Pre-Owned\nShipping: $7.99\nSeller: jando_online (3,531) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.875Z",
+                "itemId": "205595396125"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "205595320606",
+        "url": "https://www.ebay.com/itm/205595320606",
+        "title": "Official OEM Nintendo High Speed HDMI Cable WiiU Switch Game Console WUP-008",
+        "price": "$5.39",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.878Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gpvideogames (700) 98.2%",
+            "location": "Located in United States",
+            "shipping": "$4.14",
+            "priceDetails": {
+                "rawPrice": "$5.39or Best Offer+$4.14 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$4.14"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Official OEM Nintendo High Speed HDMI Cable WiiU Switch Game Console WUP-008",
+            "price": "$5.39",
+            "url": "https://www.ebay.com/itm/205595320606",
+            "description": "Condition: Pre-Owned\nShipping: $4.14\nSeller: gpvideogames (700) 98.2%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.878Z",
+                "itemId": "205595320606"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "205594641153",
+        "url": "https://www.ebay.com/itm/205594641153",
+        "title": "Nintendo Switch Dock Console Charging TV Docking tested working",
+        "price": "$25.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.880Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "josmcnerli0 (29) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.19",
+            "priceDetails": {
+                "rawPrice": "$25.00or Best Offer+$8.19 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$8.19"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Dock Console Charging TV Docking tested working",
+            "price": "$25.00",
+            "url": "https://www.ebay.com/itm/205594641153",
+            "description": "Condition: Pre-Owned\nShipping: $8.19\nSeller: josmcnerli0 (29) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.880Z",
+                "itemId": "205594641153"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "306378664448",
+        "url": "https://www.ebay.com/itm/306378664448",
+        "title": "OEM Nintendo Switch Console Screen TV Dock Charging Base Station Only!",
+        "price": "$23.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.882Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "micdel7731 (17) 100%",
+            "location": "Located in United States",
+            "shipping": "$10.08",
+            "priceDetails": {
+                "rawPrice": "$23.00or Best Offer+$10.08 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$10.08"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "OEM Nintendo Switch Console Screen TV Dock Charging Base Station Only!",
+            "price": "$23.00",
+            "url": "https://www.ebay.com/itm/306378664448",
+            "description": "Condition: Pre-Owned\nShipping: $10.08\nSeller: micdel7731 (17) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.882Z",
+                "itemId": "306378664448"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "257000373226",
+        "url": "https://www.ebay.com/itm/257000373226",
+        "title": "Nintendo Switch Console Screen TV Dock Station Charging Base Station",
+        "price": "$24.95",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.884Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gottaloveit609 (150) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.01",
+            "priceDetails": {
+                "rawPrice": "$24.95or Best Offer+$7.01 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$7.01"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console Screen TV Dock Station Charging Base Station",
+            "price": "$24.95",
+            "url": "https://www.ebay.com/itm/257000373226",
+            "description": "Condition: Pre-Owned\nShipping: $7.01\nSeller: gottaloveit609 (150) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.884Z",
+                "itemId": "257000373226"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177239376251",
+        "url": "https://www.ebay.com/itm/177239376251",
+        "title": "Nintendo Switch Console HDMI TV Dock USED, Black  No Cord.￼",
+        "price": "$20.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.886Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "tennesseevibes (682) 98.7%",
+            "location": "Located in United States",
+            "shipping": "$6.07",
+            "priceDetails": {
+                "rawPrice": "$20.00or Best Offer+$6.07 deliveryLocated in United StatesFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$6.07"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console HDMI TV Dock USED, Black  No Cord.￼",
+            "price": "$20.00",
+            "url": "https://www.ebay.com/itm/177239376251",
+            "description": "Condition: Pre-Owned\nShipping: $6.07\nSeller: tennesseevibes (682) 98.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.886Z",
+                "itemId": "177239376251"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127211097110",
+        "url": "https://www.ebay.com/itm/127211097110",
+        "title": "Original EMMC 32G Memory Module PCB Board for Nintendo Switch NS Console",
+        "price": "$18.28",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.889Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "oneworld_l (1,722) 99%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$18.28or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Original EMMC 32G Memory Module PCB Board for Nintendo Switch NS Console",
+            "price": "$18.28",
+            "url": "https://www.ebay.com/itm/127211097110",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: oneworld_l (1,722) 99%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.889Z",
+                "itemId": "127211097110"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127211028551",
+        "url": "https://www.ebay.com/itm/127211028551",
+        "title": "Original Console Wlan WIFI Bluetooth IC Chip CYW4356X for Nintendo Switch Lite",
+        "price": "$9.14",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.891Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "oneworld_l (1,722) 99%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$9.14or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Original Console Wlan WIFI Bluetooth IC Chip CYW4356X for Nintendo Switch Lite",
+            "price": "$9.14",
+            "url": "https://www.ebay.com/itm/127211028551",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: oneworld_l (1,722) 99%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.891Z",
+                "itemId": "127211028551"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127211028039",
+        "url": "https://www.ebay.com/itm/127211028039",
+        "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console B",
+        "price": "$5.15",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.893Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "oneworld_l (1,722) 99%",
+            "location": "Located in China",
+            "shipping": "$5.87",
+            "priceDetails": {
+                "rawPrice": "$5.15or Best Offer+$5.87 deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$5.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "1*SD TF Memory Card Slot Socket Reader Holder for Nintendo Switch NS Console B",
+            "price": "$5.15",
+            "url": "https://www.ebay.com/itm/127211028039",
+            "description": "Condition: Pre-Owned\nShipping: $5.87\nSeller: oneworld_l (1,722) 99%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.893Z",
+                "itemId": "127211028039"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "326668488070",
+        "url": "https://www.ebay.com/itm/326668488070",
+        "title": "Hori Split Pad Pro Controllers NEON RED For Nintendo Switch OLED Console",
+        "price": "$28.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.896Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "resaletreasure (767) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.25",
+            "priceDetails": {
+                "rawPrice": "$28.00Buy It Now+$7.25 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$7.25"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Hori Split Pad Pro Controllers NEON RED For Nintendo Switch OLED Console",
+            "price": "$28.00",
+            "url": "https://www.ebay.com/itm/326668488070",
+            "description": "Condition: Pre-Owned\nShipping: $7.25\nSeller: resaletreasure (767) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.896Z",
+                "itemId": "326668488070"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "277247923586",
+        "url": "https://www.ebay.com/itm/277247923586",
+        "title": "NUBY N64 NINTENDO 64  SNES VIDEO GAME CONSOLE AUTO RF ADAPTER SWITCH Tested!",
+        "price": "$8.88",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.898Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "livideogames (12,828) 99.8%",
+            "location": "Located in United States",
+            "shipping": "$3.99",
+            "priceDetails": {
+                "rawPrice": "$8.88Buy It Now+$3.99 deliveryLocated in United StatesFree returns",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$3.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "NUBY N64 NINTENDO 64  SNES VIDEO GAME CONSOLE AUTO RF ADAPTER SWITCH Tested!",
+            "price": "$8.88",
+            "url": "https://www.ebay.com/itm/277247923586",
+            "description": "Condition: Pre-Owned\nShipping: $3.99\nSeller: livideogames (12,828) 99.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.898Z",
+                "itemId": "277247923586"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357213758078",
+        "url": "https://www.ebay.com/itm/357213758078",
+        "title": "FREE SHIP!! USED OEM Nintendo RF Switch (NES-003) for Nintendo NES Game Console",
+        "price": "$8.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.900Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "rhunter370 (2,819) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$8.99Was: $9.9910% offBuy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "FREE SHIP!! USED OEM Nintendo RF Switch (NES-003) for Nintendo NES Game Console",
+            "price": "$8.99",
+            "url": "https://www.ebay.com/itm/357213758078",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: rhunter370 (2,819) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.900Z",
+                "itemId": "357213758078"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "336045279314",
+        "url": "https://www.ebay.com/itm/336045279314",
+        "title": "Nintendo Switch Console TV Dock Charging Station Base w Adapter Power Works",
+        "price": "$29.19",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.902Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "simplychiccollections (22) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.12",
+            "priceDetails": {
+                "rawPrice": "$29.19Was: $48.6540% offor Best Offer+$9.12 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$9.12"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console TV Dock Charging Station Base w Adapter Power Works",
+            "price": "$29.19",
+            "url": "https://www.ebay.com/itm/336045279314",
+            "description": "Condition: Pre-Owned\nShipping: $9.12\nSeller: simplychiccollections (22) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.902Z",
+                "itemId": "336045279314"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177237680763",
+        "url": "https://www.ebay.com/itm/177237680763",
+        "title": "ABXY Button Disassemble Switch PCB Motherboard For Nintendo New 3DS Console",
+        "price": "$12.86",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:18:49.904Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "injoys2 (1,177) 97.3%",
+            "location": "Located in China",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$12.86Was: $13.545% offor Best OfferFree deliveryLocated in China",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "ABXY Button Disassemble Switch PCB Motherboard For Nintendo New 3DS Console",
+            "price": "$12.86",
+            "url": "https://www.ebay.com/itm/177237680763",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: injoys2 (1,177) 97.3%\nLocation: Located in China",
+            "metadata": {
+                "foundAt": "2025-07-10T04:18:49.904Z",
+                "itemId": "177237680763"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    }
+]

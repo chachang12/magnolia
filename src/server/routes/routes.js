@@ -2,8 +2,12 @@ import express from 'express';
 import fs from 'fs';
 import { notificationsPath, mlDataPath } from '../../shared/models.js';
 import path from 'path';
+import botRoutes from './botRoutes.js';
 
 const router = express.Router();
+
+// Include bot management routes
+router.use(botRoutes);
 
 // API endpoint to get all notifications
 router.get('/api/notifications', (req, res) => {

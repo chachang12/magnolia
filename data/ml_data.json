@@ -1,0 +1,4292 @@
+[
+    {
+        "id": "123456",
+        "url": "https://ebay.com/itm/123456",
+        "title": "Shop on eBay",
+        "price": "$20.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.975Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "Unknown",
+            "location": "Unknown",
+            "shipping": "Unknown",
+            "priceDetails": {
+                "rawPrice": "$20.00or Best OfferSponsored",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": ""
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Shop on eBay",
+            "price": "$20.00",
+            "url": "https://ebay.com/itm/123456",
+            "description": "Condition: Brand New\nShipping: Unknown\nSeller: Unknown\nLocation: Unknown",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.976Z",
+                "itemId": "123456"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "205594237272",
+        "url": "https://www.ebay.com/itm/205594237272",
+        "title": "Nintendo Switch Console COMPLETIONIST bundle!",
+        "price": "$50.008",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.978Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "joris6465 (8) 0%",
+            "location": "Located in United States",
+            "shipping": "$106.40",
+            "priceDetails": {
+                "rawPrice": "$50.008 bids · Time left42s left  (Today 05:47 PM)+$106.40 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$106.40"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console COMPLETIONIST bundle!",
+            "price": "$50.008",
+            "url": "https://www.ebay.com/itm/205594237272",
+            "description": "Condition: Pre-Owned\nShipping: $106.40\nSeller: joris6465 (8) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.978Z",
+                "itemId": "205594237272"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "306386729657",
+        "url": "https://www.ebay.com/itm/306386729657",
+        "title": "Nintendo Switch Fortnite Wildcat Bundle Code",
+        "price": "$85.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.980Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "kkat-9654 (0) 0%",
+            "location": "Located in United States",
+            "shipping": "$4.08",
+            "priceDetails": {
+                "rawPrice": "$85.00or Best Offer+$4.08 deliveryLocated in United StatesLast one9 watchersSponsored",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$4.08"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Fortnite Wildcat Bundle Code",
+            "price": "$85.00",
+            "url": "https://www.ebay.com/itm/306386729657",
+            "description": "Condition: Brand New\nShipping: $4.08\nSeller: kkat-9654 (0) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.980Z",
+                "itemId": "306386729657"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "277251714757",
+        "url": "https://www.ebay.com/itm/277251714757",
+        "title": "Nintendo Switch Custom “Consolized” Console w/ 32GB Micro SD Card",
+        "price": "$38.210",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.981Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "shibuya-pac (1,951) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.01",
+            "priceDetails": {
+                "rawPrice": "$38.210 bids · Time left1d 18h left  (Fri, 12:10 PM)$149.99Buy It Now+$7.01 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$7.01"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Custom “Consolized” Console w/ 32GB Micro SD Card",
+            "price": "$38.210",
+            "url": "https://www.ebay.com/itm/277251714757",
+            "description": "Condition: Pre-Owned\nShipping: $7.01\nSeller: shibuya-pac (1,951) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.981Z",
+                "itemId": "277251714757"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "277260670563",
+        "url": "https://www.ebay.com/itm/277260670563",
+        "title": "New ListingMario Kart World For Nintendo Switch 2 - Digital Card Code",
+        "price": "$59.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.983Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "shibuya-pac (1,951) 100%",
+            "location": "Located in United States",
+            "shipping": "$4.14",
+            "priceDetails": {
+                "rawPrice": "$59.99Buy It Now+$4.14 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$4.14"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingMario Kart World For Nintendo Switch 2 - Digital Card Code",
+            "price": "$59.99",
+            "url": "https://www.ebay.com/itm/277260670563",
+            "description": "Condition: Brand New\nShipping: $4.14\nSeller: shibuya-pac (1,951) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.983Z",
+                "itemId": "277260670563"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "286697898419",
+        "url": "https://www.ebay.com/itm/286697898419",
+        "title": "New ListingNintendo Switch Console HAC-001 32GB Tablet Only - Tested & Working",
+        "price": "$89.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.984Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "redhatresale (1,569) 99.6%",
+            "location": "Located in United States",
+            "shipping": "$4.99",
+            "priceDetails": {
+                "rawPrice": "$89.99Buy It Now+$4.99 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$4.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Console HAC-001 32GB Tablet Only - Tested & Working",
+            "price": "$89.99",
+            "url": "https://www.ebay.com/itm/286697898419",
+            "description": "Condition: Pre-Owned\nShipping: $4.99\nSeller: redhatresale (1,569) 99.6%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.984Z",
+                "itemId": "286697898419"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "306387403647",
+        "url": "https://www.ebay.com/itm/306387403647",
+        "title": "New ListingUSED Black Nintendo Switch Console w/ SKIN. SCREEN PROTECTOR, & DOCK (READ DESC)",
+        "price": "$79.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.986Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "sgtodd197811 (205) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.31",
+            "priceDetails": {
+                "rawPrice": "$79.99Buy It Now+$9.31 deliveryLocated in United States14 watchers",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$9.31"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingUSED Black Nintendo Switch Console w/ SKIN. SCREEN PROTECTOR, & DOCK (READ DESC)",
+            "price": "$79.99",
+            "url": "https://www.ebay.com/itm/306387403647",
+            "description": "Condition: Pre-Owned\nShipping: $9.31\nSeller: sgtodd197811 (205) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.986Z",
+                "itemId": "306387403647"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236179310155",
+        "url": "https://www.ebay.com/itm/236179310155",
+        "title": "Nintendo Switch HAC-001 Bundle Joy-Cons, Dock, Charger, Joy Con Grips & Straps!!",
+        "price": "$71.002",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.988Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "cal-3907 (9) 100%",
+            "location": "Located in United States",
+            "shipping": "$14.99",
+            "priceDetails": {
+                "rawPrice": "$71.002 bids · Time left1h 31m left  (Today 07:17 PM)+$14.99 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$14.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001 Bundle Joy-Cons, Dock, Charger, Joy Con Grips & Straps!!",
+            "price": "$71.002",
+            "url": "https://www.ebay.com/itm/236179310155",
+            "description": "Condition: Pre-Owned\nShipping: $14.99\nSeller: cal-3907 (9) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.988Z",
+                "itemId": "236179310155"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236179309715",
+        "url": "https://www.ebay.com/itm/236179309715",
+        "title": "Nintendo Switch Console HAC-001 Pokemon Joycon Grips,Protective Case, and Dock!!",
+        "price": "$77.007",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.990Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "cal-3907 (9) 100%",
+            "location": "Located in United States",
+            "shipping": "$14.99",
+            "priceDetails": {
+                "rawPrice": "$77.007 bids · Time left1h 30m left  (Today 07:17 PM)+$14.99 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$14.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console HAC-001 Pokemon Joycon Grips,Protective Case, and Dock!!",
+            "price": "$77.007",
+            "url": "https://www.ebay.com/itm/236179309715",
+            "description": "Condition: Pre-Owned\nShipping: $14.99\nSeller: cal-3907 (9) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.990Z",
+                "itemId": "236179309715"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "336058208189",
+        "url": "https://www.ebay.com/itm/336058208189",
+        "title": "New ListingNintendo Switch Console HAC-001 (-01) *Power On/Read* | O588",
+        "price": "$79.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.992Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "ricacommercial (52,166) 99.6%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$79.99or Best OfferFree deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Console HAC-001 (-01) *Power On/Read* | O588",
+            "price": "$79.99",
+            "url": "https://www.ebay.com/itm/336058208189",
+            "description": "Condition: Parts Only\nShipping: Free\nSeller: ricacommercial (52,166) 99.6%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.992Z",
+                "itemId": "336058208189"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "187401381025",
+        "url": "https://www.ebay.com/itm/187401381025",
+        "title": "New ListingNintendo Switch Lite Turquoise - As-Is/Parts Only - No Charger - Free Shipping!",
+        "price": "$49.95",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.993Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "justcallmesonnie (193) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$49.95Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Lite Turquoise - As-Is/Parts Only - No Charger - Free Shipping!",
+            "price": "$49.95",
+            "url": "https://www.ebay.com/itm/187401381025",
+            "description": "Condition: Parts Only\nShipping: Free\nSeller: justcallmesonnie (193) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.993Z",
+                "itemId": "187401381025"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "146685837026",
+        "url": "https://www.ebay.com/itm/146685837026",
+        "title": "Nintendo Switch Lite Coral HDH-001 Handheld Video Game Console",
+        "price": "$72.0031",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.996Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "bigdeals25 (22,820) 100%",
+            "location": "Located in United States",
+            "shipping": "$10.00",
+            "priceDetails": {
+                "rawPrice": "$72.0031 bids · Time left1h 13m left  (Today 07:00 PM)+$10.00 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$10.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite Coral HDH-001 Handheld Video Game Console",
+            "price": "$72.0031",
+            "url": "https://www.ebay.com/itm/146685837026",
+            "description": "Condition: Pre-Owned\nShipping: $10.00\nSeller: bigdeals25 (22,820) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.996Z",
+                "itemId": "146685837026"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "406022268261",
+        "url": "https://www.ebay.com/itm/406022268261",
+        "title": "Nintendo Switch HAC-001 Console Bundle As-Is",
+        "price": "$61.0024",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:24.998Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "residentretro (26) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$61.0024 bids · Time left6h 1m left  (Today 11:48 PM)Free deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001 Console Bundle As-Is",
+            "price": "$61.0024",
+            "url": "https://www.ebay.com/itm/406022268261",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: residentretro (26) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:24.998Z",
+                "itemId": "406022268261"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "388499074826",
+        "url": "https://www.ebay.com/itm/388499074826",
+        "title": "Nintendo Switch Console Tablet Tested/Working (includes carrying case)",
+        "price": "$90.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.000Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "ln05-35 (95) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.39",
+            "priceDetails": {
+                "rawPrice": "$90.00or Best Offer+$9.39 deliveryLocated in United States13 watchers",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$9.39"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console Tablet Tested/Working (includes carrying case)",
+            "price": "$90.00",
+            "url": "https://www.ebay.com/itm/388499074826",
+            "description": "Condition: Pre-Owned\nShipping: $9.39\nSeller: ln05-35 (95) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.000Z",
+                "itemId": "388499074826"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "326672135870",
+        "url": "https://www.ebay.com/itm/326672135870",
+        "title": "Nintendo Switch (HAC-001) - Tested and Working",
+        "price": "$77.0014",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.002Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "timbtz (108) 100%",
+            "location": "Located in United States",
+            "shipping": "$13.92",
+            "priceDetails": {
+                "rawPrice": "$77.0014 bids · Time left4d 3h left  (Sun, 09:00 PM)+$13.92 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$13.92"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch (HAC-001) - Tested and Working",
+            "price": "$77.0014",
+            "url": "https://www.ebay.com/itm/326672135870",
+            "description": "Condition: Pre-Owned\nShipping: $13.92\nSeller: timbtz (108) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.002Z",
+                "itemId": "326672135870"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357239143853",
+        "url": "https://www.ebay.com/itm/357239143853",
+        "title": "Nintendo Switch HAC-001 V1 Console | Full kit + SSBU | READ DESC",
+        "price": "$80.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.007Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "emital-8144 (8) 100%",
+            "location": "Located in United States",
+            "shipping": "$10.08",
+            "priceDetails": {
+                "rawPrice": "$80.000 bids · Time left6d 22h left  (Wed, 03:55 PM)$200.00Buy It Now+$10.08 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$10.08"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001 V1 Console | Full kit + SSBU | READ DESC",
+            "price": "$80.000",
+            "url": "https://www.ebay.com/itm/357239143853",
+            "description": "Condition: Pre-Owned\nShipping: $10.08\nSeller: emital-8144 (8) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.007Z",
+                "itemId": "357239143853"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "376389737425",
+        "url": "https://www.ebay.com/itm/376389737425",
+        "title": "Nintendo Switch OLED With Accessories Pictured",
+        "price": "$50.690",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.012Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "car7484 (26) 100%",
+            "location": "Located in United States",
+            "shipping": "$11.87",
+            "priceDetails": {
+                "rawPrice": "$50.690 bids · Time left4d 22h left  (Mon, 04:42 PM)$250.00Buy It Now+$11.87 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$11.87"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch OLED With Accessories Pictured",
+            "price": "$50.690",
+            "url": "https://www.ebay.com/itm/376389737425",
+            "description": "Condition: Pre-Owned\nShipping: $11.87\nSeller: car7484 (26) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.012Z",
+                "itemId": "376389737425"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "116685631607",
+        "url": "https://www.ebay.com/itm/116685631607",
+        "title": "New ListingNintendo Switch (Original HAC-001) Console – Black – 32GB Internal Storage",
+        "price": "$78.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.016Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gys3ui2 (190) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.00",
+            "priceDetails": {
+                "rawPrice": "$78.00or Best Offer+$8.00 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$8.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch (Original HAC-001) Console – Black – 32GB Internal Storage",
+            "price": "$78.00",
+            "url": "https://www.ebay.com/itm/116685631607",
+            "description": "Condition: Pre-Owned\nShipping: $8.00\nSeller: gys3ui2 (190) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.016Z",
+                "itemId": "116685631607"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "167638230344",
+        "url": "https://www.ebay.com/itm/167638230344",
+        "title": "New ListingNintendo Switch Lite Yellow Handheld Console - For Parts Or Repair",
+        "price": "$59.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.018Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "wheattrading (2,585) 99.5%",
+            "location": "Located in United States",
+            "shipping": "$12.30",
+            "priceDetails": {
+                "rawPrice": "$59.99Buy It Now+$12.30 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$12.30"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Lite Yellow Handheld Console - For Parts Or Repair",
+            "price": "$59.99",
+            "url": "https://www.ebay.com/itm/167638230344",
+            "description": "Condition: Parts Only\nShipping: $12.30\nSeller: wheattrading (2,585) 99.5%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.018Z",
+                "itemId": "167638230344"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "167630037837",
+        "url": "https://www.ebay.com/itm/167630037837",
+        "title": "Nintendo Switch HAC-001(-01) (2019 Edition) With Accessories.",
+        "price": "$49.991",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.037Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "jnyc83 (1,164) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.99",
+            "priceDetails": {
+                "rawPrice": "$49.991 bid · Time left23h 51m left  (Thu, 05:38 PM)+$9.99 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$9.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001(-01) (2019 Edition) With Accessories.",
+            "price": "$49.991",
+            "url": "https://www.ebay.com/itm/167630037837",
+            "description": "Condition: Pre-Owned\nShipping: $9.99\nSeller: jnyc83 (1,164) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.037Z",
+                "itemId": "167630037837"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127212887192",
+        "url": "https://www.ebay.com/itm/127212887192",
+        "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01)",
+        "price": "$80.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.039Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gobears333333 (44) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.44",
+            "priceDetails": {
+                "rawPrice": "$80.000 bids · Time left1d left  (Thu, 06:36 PM)+$9.44 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$9.44"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01)",
+            "price": "$80.000",
+            "url": "https://www.ebay.com/itm/127212887192",
+            "description": "Condition: Pre-Owned\nShipping: $9.44\nSeller: gobears333333 (44) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.039Z",
+                "itemId": "127212887192"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "257009531439",
+        "url": "https://www.ebay.com/itm/257009531439",
+        "title": "New ListingNintendo Switch Console - Black HAC-001 Parts Only",
+        "price": "$59.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.041Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "laralarafae (28) 100%",
+            "location": "Located in United States",
+            "shipping": "$10.85",
+            "priceDetails": {
+                "rawPrice": "$59.99Buy It Now+$10.85 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$10.85"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Console - Black HAC-001 Parts Only",
+            "price": "$59.99",
+            "url": "https://www.ebay.com/itm/257009531439",
+            "description": "Condition: Parts Only\nShipping: $10.85\nSeller: laralarafae (28) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.041Z",
+                "itemId": "257009531439"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396842465113",
+        "url": "https://www.ebay.com/itm/396842465113",
+        "title": "New ListingNintendo Switch Lite Handheld Game Console HDH-001 Grey",
+        "price": "$89.95",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.042Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "nostalgia-cib (210) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.11",
+            "priceDetails": {
+                "rawPrice": "$89.95Buy It Now+$8.11 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$8.11"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Lite Handheld Game Console HDH-001 Grey",
+            "price": "$89.95",
+            "url": "https://www.ebay.com/itm/396842465113",
+            "description": "Condition: Pre-Owned\nShipping: $8.11\nSeller: nostalgia-cib (210) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.042Z",
+                "itemId": "396842465113"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "306387249837",
+        "url": "https://www.ebay.com/itm/306387249837",
+        "title": "Nintendo Switch Lite Gray Handheld System",
+        "price": "$85.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.044Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "wizard_ct (227) 100%",
+            "location": "Located in United States",
+            "shipping": "$12.84",
+            "priceDetails": {
+                "rawPrice": "$85.00Buy It Now+$12.84 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$12.84"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite Gray Handheld System",
+            "price": "$85.00",
+            "url": "https://www.ebay.com/itm/306387249837",
+            "description": "Condition: Pre-Owned\nShipping: $12.84\nSeller: wizard_ct (227) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.044Z",
+                "itemId": "306387249837"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "336047711632",
+        "url": "https://www.ebay.com/itm/336047711632",
+        "title": "Nintendo Switch HAC-001 Incomplete Video Game Console Only,  Works, Some Damage",
+        "price": "$40.0017",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.046Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "bigdeals25 (22,820) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.00",
+            "priceDetails": {
+                "rawPrice": "$40.0017 bids · Time left1d 1h left  (Thu, 07:00 PM)+$9.00 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$9.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001 Incomplete Video Game Console Only,  Works, Some Damage",
+            "price": "$40.0017",
+            "url": "https://www.ebay.com/itm/336047711632",
+            "description": "Condition: Pre-Owned\nShipping: $9.00\nSeller: bigdeals25 (22,820) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.046Z",
+                "itemId": "336047711632"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "286698091867",
+        "url": "https://www.ebay.com/itm/286698091867",
+        "title": "New ListingNintendo Switch HAC-001(-01) 32GB Console with Gray Joy‑Con",
+        "price": "$40.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.048Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "jnasty_77 (111) 100%",
+            "location": "Located in United States",
+            "shipping": "$10.00",
+            "priceDetails": {
+                "rawPrice": "$40.000 bids · Time left6d 20h left  (Wed, 02:21 PM)$150.00Buy It Now+$10.00 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$10.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch HAC-001(-01) 32GB Console with Gray Joy‑Con",
+            "price": "$40.000",
+            "url": "https://www.ebay.com/itm/286698091867",
+            "description": "Condition: Pre-Owned\nShipping: $10.00\nSeller: jnasty_77 (111) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.048Z",
+                "itemId": "286698091867"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "297444015276",
+        "url": "https://www.ebay.com/itm/297444015276",
+        "title": "Nintendo Switch 32GB Handheld Touchscreen Console 6.2-Inch LCD Display HAC-001",
+        "price": "$66.0025",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.050Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "taylors2722 (8,746) 99.3%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$66.0025 bids · Time left18h 28m left  (Thu, 12:15 PM)Free deliveryLocated in United StatesFree returns",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch 32GB Handheld Touchscreen Console 6.2-Inch LCD Display HAC-001",
+            "price": "$66.0025",
+            "url": "https://www.ebay.com/itm/297444015276",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: taylors2722 (8,746) 99.3%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.051Z",
+                "itemId": "297444015276"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "267311319340",
+        "url": "https://www.ebay.com/itm/267311319340",
+        "title": "Nintendo Switch Lite Handheld Game Console Only HDH-001 Pink",
+        "price": "$78.002",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.052Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "chrcc.qigpv4 (228) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.01",
+            "priceDetails": {
+                "rawPrice": "$78.002 bids · Time left2h 49m left  (Today 08:36 PM)+$7.01 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$7.01"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite Handheld Game Console Only HDH-001 Pink",
+            "price": "$78.002",
+            "url": "https://www.ebay.com/itm/267311319340",
+            "description": "Condition: Pre-Owned\nShipping: $7.01\nSeller: chrcc.qigpv4 (228) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.052Z",
+                "itemId": "267311319340"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "146696789402",
+        "url": "https://www.ebay.com/itm/146696789402",
+        "title": "Nintendo Switch Bundle Pre-owned Console, Dock, Charger, Stand, Case",
+        "price": "$35.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.053Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "thenacle (59) 100%",
+            "location": "Located in United States",
+            "shipping": "$15.00",
+            "priceDetails": {
+                "rawPrice": "$35.000 bids · Time left5d 15h left  (Tue, 09:46 AM)$150.00Buy It Now+$15.00 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$15.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Bundle Pre-owned Console, Dock, Charger, Stand, Case",
+            "price": "$35.000",
+            "url": "https://www.ebay.com/itm/146696789402",
+            "description": "Condition: Pre-Owned\nShipping: $15.00\nSeller: thenacle (59) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.053Z",
+                "itemId": "146696789402"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "316475368419",
+        "url": "https://www.ebay.com/itm/316475368419",
+        "title": "Nintendo Switch Joy Con Limited Edition Fortnite Wildcat L/R New without Box",
+        "price": "$49.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.056Z",
+        "details": {
+            "condition": "Open Box",
+            "seller": "gamefixer (799) 99.7%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$49.00 to $92.00Buy It NowFree deliveryLocated in United StatesFree returnsSponsored",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Joy Con Limited Edition Fortnite Wildcat L/R New without Box",
+            "price": "$49.00",
+            "url": "https://www.ebay.com/itm/316475368419",
+            "description": "Condition: Open Box\nShipping: Free\nSeller: gamefixer (799) 99.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.056Z",
+                "itemId": "316475368419"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "405584892267",
+        "url": "https://www.ebay.com/itm/405584892267",
+        "title": "For Nintendo Switch Joy Con Controller Gamepad Wireless Pair Left & Right color",
+        "price": "$22.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.058Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "superplaying (500) 98.8%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$22.99 to $23.99Buy It NowFree deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "For Nintendo Switch Joy Con Controller Gamepad Wireless Pair Left & Right color",
+            "price": "$22.99",
+            "url": "https://www.ebay.com/itm/405584892267",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: superplaying (500) 98.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.058Z",
+                "itemId": "405584892267"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "388688062503",
+        "url": "https://www.ebay.com/itm/388688062503",
+        "title": "New ListingNintendo Switch LCD Lot  , HORI Compact Pro Controllers, 27 Games,  Travel Cases",
+        "price": "$80.001",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.059Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "canord_51 (410) 100%",
+            "location": "Located in United States",
+            "shipping": "$20.00",
+            "priceDetails": {
+                "rawPrice": "$80.001 bid · Time left4d 12h left  (Mon, 06:28 AM)+$20.00 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$20.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch LCD Lot  , HORI Compact Pro Controllers, 27 Games,  Travel Cases",
+            "price": "$80.001",
+            "url": "https://www.ebay.com/itm/388688062503",
+            "description": "Condition: Pre-Owned\nShipping: $20.00\nSeller: canord_51 (410) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.059Z",
+                "itemId": "388688062503"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "167627109142",
+        "url": "https://www.ebay.com/itm/167627109142",
+        "title": "Nintendo Switch with Games/Travel Case/Dock/Charger AND MORE.",
+        "price": "$70.007",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.076Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "nonsob12 (6) 100%",
+            "location": "Located in United States",
+            "shipping": "$38.73",
+            "priceDetails": {
+                "rawPrice": "$70.007 bids · Time left1d 18h left  (Fri, 12:30 PM)+$38.73 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$38.73"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch with Games/Travel Case/Dock/Charger AND MORE.",
+            "price": "$70.007",
+            "url": "https://www.ebay.com/itm/167627109142",
+            "description": "Condition: Pre-Owned\nShipping: $38.73\nSeller: nonsob12 (6) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.076Z",
+                "itemId": "167627109142"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127216087154",
+        "url": "https://www.ebay.com/itm/127216087154",
+        "title": "Nintendo Switch Lite HDH-001 Turquoise Handheld Console With Game and Case",
+        "price": "$85.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.078Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "bridges2580 (151) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.36",
+            "priceDetails": {
+                "rawPrice": "$85.00or Best Offer+$7.36 deliveryLocated in United States16 watchers",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$7.36"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite HDH-001 Turquoise Handheld Console With Game and Case",
+            "price": "$85.00",
+            "url": "https://www.ebay.com/itm/127216087154",
+            "description": "Condition: Pre-Owned\nShipping: $7.36\nSeller: bridges2580 (151) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.078Z",
+                "itemId": "127216087154"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "187394068783",
+        "url": "https://www.ebay.com/itm/187394068783",
+        "title": "Nintendo Switch 32GB BOX AND ACCESSORIES ONLY!!! No Console/Joycons Ships Free",
+        "price": "$59.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.079Z",
+        "details": {
+            "condition": "Open Box",
+            "seller": "deadtechnologies (1,540) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$59.99Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch 32GB BOX AND ACCESSORIES ONLY!!! No Console/Joycons Ships Free",
+            "price": "$59.99",
+            "url": "https://www.ebay.com/itm/187394068783",
+            "description": "Condition: Open Box\nShipping: Free\nSeller: deadtechnologies (1,540) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.079Z",
+                "itemId": "187394068783"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "197474199145",
+        "url": "https://www.ebay.com/itm/197474199145",
+        "title": "Nintendo Switch Pokemon Scarlet & Violet Console Dock and Cords Only Works",
+        "price": "$59.98",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.081Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "hortonteam (5,034) 99.7%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$59.98or Best OfferFree delivery in 2-4 daysLocated in United StatesFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Pokemon Scarlet & Violet Console Dock and Cords Only Works",
+            "price": "$59.98",
+            "url": "https://www.ebay.com/itm/197474199145",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: hortonteam (5,034) 99.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.081Z",
+                "itemId": "197474199145"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "167624578807",
+        "url": "https://www.ebay.com/itm/167624578807",
+        "title": "Nintendo Switch Lite Handheld Console Turquoise, Charger,  Animal Crossing Cases",
+        "price": "$61.0019",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.082Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "lunarxenowolf (205) 97%",
+            "location": "Located in United States",
+            "shipping": "$11.40",
+            "priceDetails": {
+                "rawPrice": "$61.0019 bids · Time left3h 56m left  (Today 09:43 PM)+$11.40 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$11.40"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite Handheld Console Turquoise, Charger,  Animal Crossing Cases",
+            "price": "$61.0019",
+            "url": "https://www.ebay.com/itm/167624578807",
+            "description": "Condition: Pre-Owned\nShipping: $11.40\nSeller: lunarxenowolf (205) 97%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.082Z",
+                "itemId": "167624578807"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396557611319",
+        "url": "https://www.ebay.com/itm/396557611319",
+        "title": "Metroid Dread Switch Brand New Game Special (2021 Action/Adventure Shooter)",
+        "price": "$48.95",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.084Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "katerusa1 (17,749) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$48.95Buy It NowFree deliveryLocated in United StatesFree returns47 watchers",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Metroid Dread Switch Brand New Game Special (2021 Action/Adventure Shooter)",
+            "price": "$48.95",
+            "url": "https://www.ebay.com/itm/396557611319",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: katerusa1 (17,749) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.084Z",
+                "itemId": "396557611319"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "406033502007",
+        "url": "https://www.ebay.com/itm/406033502007",
+        "title": "New ListingFor Nintendo Switch Joy Con Bluetooth Wireless Controller w Straps Controller oo",
+        "price": "$23.89",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.087Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "superplaying (500) 98.8%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$23.89 to $27.99Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingFor Nintendo Switch Joy Con Bluetooth Wireless Controller w Straps Controller oo",
+            "price": "$23.89",
+            "url": "https://www.ebay.com/itm/406033502007",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: superplaying (500) 98.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.087Z",
+                "itemId": "406033502007"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "306385694759",
+        "url": "https://www.ebay.com/itm/306385694759",
+        "title": "Nintendo Switch V1 Unpatched Tablet With CRKD Nitro Deck Low Serial",
+        "price": "$90.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.088Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "vihjz_29 (4) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.22",
+            "priceDetails": {
+                "rawPrice": "$90.000 bids · Time left2d 22h left  (Sat, 03:58 PM)$135.00Buy It Now+$8.22 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$8.22"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch V1 Unpatched Tablet With CRKD Nitro Deck Low Serial",
+            "price": "$90.000",
+            "url": "https://www.ebay.com/itm/306385694759",
+            "description": "Condition: Pre-Owned\nShipping: $8.22\nSeller: vihjz_29 (4) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.088Z",
+                "itemId": "306385694759"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "376382250447",
+        "url": "https://www.ebay.com/itm/376382250447",
+        "title": "Nintendo Switch 32GB - Red/Blue + Animal Crossing & Pro Controller(No HDMI Cord)",
+        "price": "$89.991",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.089Z",
+        "details": {
+            "condition": "Open Box",
+            "seller": "watchout676 (77) 100%",
+            "location": "Located in United States",
+            "shipping": "$10.30",
+            "priceDetails": {
+                "rawPrice": "$89.991 bid · Time left1d 2h left  (Thu, 08:07 PM)+$10.30 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$10.30"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch 32GB - Red/Blue + Animal Crossing & Pro Controller(No HDMI Cord)",
+            "price": "$89.991",
+            "url": "https://www.ebay.com/itm/376382250447",
+            "description": "Condition: Open Box\nShipping: $10.30\nSeller: watchout676 (77) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.089Z",
+                "itemId": "376382250447"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127218999304",
+        "url": "https://www.ebay.com/itm/127218999304",
+        "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01)",
+        "price": "$90.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.091Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "jrzyjon (113) 100%",
+            "location": "Located in United States",
+            "shipping": "$16.84",
+            "priceDetails": {
+                "rawPrice": "$90.000 bids · Time left4d 12h left  (Mon, 06:24 AM)$149.95Buy It Now+$16.84 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$16.84"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01)",
+            "price": "$90.000",
+            "url": "https://www.ebay.com/itm/127218999304",
+            "description": "Condition: Pre-Owned\nShipping: $16.84\nSeller: jrzyjon (113) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.091Z",
+                "itemId": "127218999304"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "406030992250",
+        "url": "https://www.ebay.com/itm/406030992250",
+        "title": "Nintendo Switch Console - Black w/Blue &  Red Joy-Controller- PARTS ONLY",
+        "price": "$84.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.093Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "sullyspawnshops (823) 99.7%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$84.99Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console - Black w/Blue &  Red Joy-Controller- PARTS ONLY",
+            "price": "$84.99",
+            "url": "https://www.ebay.com/itm/406030992250",
+            "description": "Condition: Parts Only\nShipping: Free\nSeller: sullyspawnshops (823) 99.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.093Z",
+                "itemId": "406030992250"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "406034420054",
+        "url": "https://www.ebay.com/itm/406034420054",
+        "title": "New ListingNintendo Switch Lite Coral Animal Crossing Needs Repair",
+        "price": "$55.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.095Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "ecorethink_thrifts (344) 99.6%",
+            "location": "Located in United States",
+            "shipping": "$6.28",
+            "priceDetails": {
+                "rawPrice": "$55.00or Best Offer+$6.28 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$6.28"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Lite Coral Animal Crossing Needs Repair",
+            "price": "$55.00",
+            "url": "https://www.ebay.com/itm/406034420054",
+            "description": "Condition: Parts Only\nShipping: $6.28\nSeller: ecorethink_thrifts (344) 99.6%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.095Z",
+                "itemId": "406034420054"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "226857447118",
+        "url": "https://www.ebay.com/itm/226857447118",
+        "title": "New ListingNintendo HAC-001 32GB Switch Console - Black with zelda game",
+        "price": "$75.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.097Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gms1205grant (220) 100%",
+            "location": "Located in United States",
+            "shipping": "$25.00",
+            "priceDetails": {
+                "rawPrice": "$75.000 bids · Time left6d 17h left  (Wed, 11:15 AM)$129.99Buy It Now+$25.00 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$25.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo HAC-001 32GB Switch Console - Black with zelda game",
+            "price": "$75.000",
+            "url": "https://www.ebay.com/itm/226857447118",
+            "description": "Condition: Pre-Owned\nShipping: $25.00\nSeller: gms1205grant (220) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.097Z",
+                "itemId": "226857447118"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396834271658",
+        "url": "https://www.ebay.com/itm/396834271658",
+        "title": "The Legend of Zelda: Tears of the Kingdom Switch 2 New Game Special (2025)",
+        "price": "$67.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.099Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "katerusa1 (17,749) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$67.99Buy It NowFree deliveryLocated in United StatesFree returns",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "The Legend of Zelda: Tears of the Kingdom Switch 2 New Game Special (2025)",
+            "price": "$67.99",
+            "url": "https://www.ebay.com/itm/396834271658",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: katerusa1 (17,749) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.099Z",
+                "itemId": "396834271658"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177253144531",
+        "url": "https://www.ebay.com/itm/177253144531",
+        "title": "New ListingNintendo Switch Console Only",
+        "price": "$89.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.100Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "87gameboy (1,240) 98.1%",
+            "location": "Located in United States",
+            "shipping": "$5.31",
+            "priceDetails": {
+                "rawPrice": "$89.00Buy It Now+$5.31 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$5.31"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Console Only",
+            "price": "$89.00",
+            "url": "https://www.ebay.com/itm/177253144531",
+            "description": "Condition: Pre-Owned\nShipping: $5.31\nSeller: 87gameboy (1,240) 98.1%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.100Z",
+                "itemId": "177253144531"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236191329077",
+        "url": "https://www.ebay.com/itm/236191329077",
+        "title": "New ListingNintendo Switch HAC-001(-01) 32GB Console with Gray Joy‑Con No Dock",
+        "price": "$55.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.102Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "kai_5577 (26) 100%",
+            "location": "Located in United States",
+            "shipping": "$11.05",
+            "priceDetails": {
+                "rawPrice": "$55.000 bids · Time left4d 18h left  (Mon, 12:25 PM)$150.00Buy It Now+$11.05 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$11.05"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch HAC-001(-01) 32GB Console with Gray Joy‑Con No Dock",
+            "price": "$55.000",
+            "url": "https://www.ebay.com/itm/236191329077",
+            "description": "Condition: Pre-Owned\nShipping: $11.05\nSeller: kai_5577 (26) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.102Z",
+                "itemId": "236191329077"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "376387318973",
+        "url": "https://www.ebay.com/itm/376387318973",
+        "title": "Nintendo Switch HAC-001 System | CIB | NO MARIO KART | Comes With Extras | READ",
+        "price": "$79.990",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.104Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "kezquo (62) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$79.990 bids · Time left1d 18h left  (Fri, 11:50 AM)$214.99Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001 System | CIB | NO MARIO KART | Comes With Extras | READ",
+            "price": "$79.990",
+            "url": "https://www.ebay.com/itm/376387318973",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: kezquo (62) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.104Z",
+                "itemId": "376387318973"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "406026278924",
+        "url": "https://www.ebay.com/itm/406026278924",
+        "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01)  Japan 1129 UT",
+        "price": "$89.990",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.105Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "usednet_japan_iv (711) 99.1%",
+            "location": "Located in Japan",
+            "shipping": "$20.00",
+            "priceDetails": {
+                "rawPrice": "$89.990 bids · Time left3d 2h left  (Sat, 08:03 PM)or Best Offer+$20.00 deliveryLocated in Japan",
+                "offerType": "Best Offer",
+                "isAuction": true,
+                "shipping": "$20.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01)  Japan 1129 UT",
+            "price": "$89.990",
+            "url": "https://www.ebay.com/itm/406026278924",
+            "description": "Condition: Pre-Owned\nShipping: $20.00\nSeller: usednet_japan_iv (711) 99.1%\nLocation: Located in Japan",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.105Z",
+                "itemId": "406026278924"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "336047838930",
+        "url": "https://www.ebay.com/itm/336047838930",
+        "title": "Nintendo Switch With Dock Joy Con Controller Mario Kart 8 Deluxe",
+        "price": "$76.0017",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.107Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "ncjwla (58,847) 99.4%",
+            "location": "Located in United States",
+            "shipping": "$18.65",
+            "priceDetails": {
+                "rawPrice": "$76.0017 bids · Time left22h 14m left  (Thu, 04:00 PM)+$18.65 deliveryLocated in United StatesBenefits charity",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$18.65"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch With Dock Joy Con Controller Mario Kart 8 Deluxe",
+            "price": "$76.0017",
+            "url": "https://www.ebay.com/itm/336047838930",
+            "description": "Condition: Pre-Owned\nShipping: $18.65\nSeller: ncjwla (58,847) 99.4%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.107Z",
+                "itemId": "336047838930"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "136115856211",
+        "url": "https://www.ebay.com/itm/136115856211",
+        "title": "Nintendo Switch Lite HDH-001 Handheld Console Blue (for Parts/Repair)",
+        "price": "$59.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.108Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "tool-in-the-box (16,679) 100%",
+            "location": "Located in United States",
+            "shipping": "$12.30",
+            "priceDetails": {
+                "rawPrice": "$59.99or Best Offer+$12.30 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$12.30"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite HDH-001 Handheld Console Blue (for Parts/Repair)",
+            "price": "$59.99",
+            "url": "https://www.ebay.com/itm/136115856211",
+            "description": "Condition: Parts Only\nShipping: $12.30\nSeller: tool-in-the-box (16,679) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.108Z",
+                "itemId": "136115856211"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "116681788661",
+        "url": "https://www.ebay.com/itm/116681788661",
+        "title": "Nintendo Switch Super Smash Bros Brothers Special Edition Dock Only Japan Good",
+        "price": "$50.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.110Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "pandal0rian (415) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.06",
+            "priceDetails": {
+                "rawPrice": "$50.00or Best Offer+$7.06 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$7.06"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Super Smash Bros Brothers Special Edition Dock Only Japan Good",
+            "price": "$50.00",
+            "url": "https://www.ebay.com/itm/116681788661",
+            "description": "Condition: Pre-Owned\nShipping: $7.06\nSeller: pandal0rian (415) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.110Z",
+                "itemId": "116681788661"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396834383600",
+        "url": "https://www.ebay.com/itm/396834383600",
+        "title": "Nintendo Switch lite HDH-001 Teal",
+        "price": "$69.990",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.112Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "ecsales81 (4,633) 99.2%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$69.990 bids · Time left2d 21h left  (Sat, 03:24 PM)$99.99Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch lite HDH-001 Teal",
+            "price": "$69.990",
+            "url": "https://www.ebay.com/itm/396834383600",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: ecsales81 (4,633) 99.2%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.112Z",
+                "itemId": "396834383600"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396784043575",
+        "url": "https://www.ebay.com/itm/396784043575",
+        "title": "Mario Kart 8 Deluxe + Booster Course Pass Switch New Game Special (Wave 1-6)",
+        "price": "$76.95",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.114Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "katerusa1 (17,749) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$76.95Buy It NowFree deliveryLocated in United StatesFree returns21 watchers",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Mario Kart 8 Deluxe + Booster Course Pass Switch New Game Special (Wave 1-6)",
+            "price": "$76.95",
+            "url": "https://www.ebay.com/itm/396784043575",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: katerusa1 (17,749) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.114Z",
+                "itemId": "396784043575"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "336056522392",
+        "url": "https://www.ebay.com/itm/336056522392",
+        "title": "Nintendo Switch Console BUNDLE HAC-001 DOCK JOYCON CASE FIFA 21",
+        "price": "$49.950",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.115Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "screamingrooster (13,727) 99.3%",
+            "location": "Located in United States",
+            "shipping": "$14.95",
+            "priceDetails": {
+                "rawPrice": "$49.950 bids · Time left3d 22h left  (Sun, 04:22 PM)+$14.95 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$14.95"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console BUNDLE HAC-001 DOCK JOYCON CASE FIFA 21",
+            "price": "$49.950",
+            "url": "https://www.ebay.com/itm/336056522392",
+            "description": "Condition: Pre-Owned\nShipping: $14.95\nSeller: screamingrooster (13,727) 99.3%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.115Z",
+                "itemId": "336056522392"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "267313274759",
+        "url": "https://www.ebay.com/itm/267313274759",
+        "title": "Nintendo Switch HAC-001 Unpatched Console set A Rank Region Free 1 Day Ship 1865",
+        "price": "$87.3317",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.117Z",
+        "details": {
+            "condition": "Excellent - Refurbished",
+            "seller": "samurai_game.shop-27 (5,034) 100%",
+            "location": "Located in Japan",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$87.3317 bids · Time left1d 5h left  (Thu, 11:00 PM)Free deliveryLocated in JapanFree returns",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001 Unpatched Console set A Rank Region Free 1 Day Ship 1865",
+            "price": "$87.3317",
+            "url": "https://www.ebay.com/itm/267313274759",
+            "description": "Condition: Excellent - Refurbished\nShipping: Free\nSeller: samurai_game.shop-27 (5,034) 100%\nLocation: Located in Japan",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.117Z",
+                "itemId": "267313274759"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "257002998027",
+        "url": "https://www.ebay.com/itm/257002998027",
+        "title": "Nintendo Switch with Games And SD Card",
+        "price": "$51.0020",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.119Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "hobbythis (86) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.24",
+            "priceDetails": {
+                "rawPrice": "$51.0020 bids · Time left1d 23h left  (Fri, 04:46 PM)+$8.24 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$8.24"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch with Games And SD Card",
+            "price": "$51.0020",
+            "url": "https://www.ebay.com/itm/257002998027",
+            "description": "Condition: Pre-Owned\nShipping: $8.24\nSeller: hobbythis (86) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.119Z",
+                "itemId": "257002998027"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "267315528404",
+        "url": "https://www.ebay.com/itm/267315528404",
+        "title": "Nintendo Switch Super Mario Odyssey Edition + Games! (Zelda, Metriod, BotW)",
+        "price": "$49.990",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.121Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "anthonyb1976 (38) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.63",
+            "priceDetails": {
+                "rawPrice": "$49.990 bids · Time left3d 17h left  (Sun, 11:09 AM)or Best Offer+$7.63 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": true,
+                "shipping": "$7.63"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Super Mario Odyssey Edition + Games! (Zelda, Metriod, BotW)",
+            "price": "$49.990",
+            "url": "https://www.ebay.com/itm/267315528404",
+            "description": "Condition: Pre-Owned\nShipping: $7.63\nSeller: anthonyb1976 (38) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.121Z",
+                "itemId": "267315528404"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "146692182074",
+        "url": "https://www.ebay.com/itm/146692182074",
+        "title": "Nintendo Switch",
+        "price": "$36.006",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.123Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "amp23803 (14) 0%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$36.006 bids · Time left6d 7h left  (Wed, 01:25 AM)Free deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch",
+            "price": "$36.006",
+            "url": "https://www.ebay.com/itm/146692182074",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: amp23803 (14) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.123Z",
+                "itemId": "146692182074"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236186964333",
+        "url": "https://www.ebay.com/itm/236186964333",
+        "title": "Nintendo Switch Lite Gray Bundle with box, 128GB SD card AND Charger CHEAP!!",
+        "price": "$80.001",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:25.124Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gar.whale (186) 100%",
+            "location": "Located in United States",
+            "shipping": "$4.50",
+            "priceDetails": {
+                "rawPrice": "$80.001 bid · Time left4d 10h left  (Mon, 04:04 AM)+$4.50 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$4.50"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite Gray Bundle with box, 128GB SD card AND Charger CHEAP!!",
+            "price": "$80.001",
+            "url": "https://www.ebay.com/itm/236186964333",
+            "description": "Condition: Pre-Owned\nShipping: $4.50\nSeller: gar.whale (186) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:25.124Z",
+                "itemId": "236186964333"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "336057901584",
+        "url": "https://www.ebay.com/itm/336057901584",
+        "title": "New ListingNintendo Switch OLED",
+        "price": "$48.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:26.991Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "hyund-76 (24) 100%",
+            "location": "Located in United States",
+            "shipping": "$6.07",
+            "priceDetails": {
+                "rawPrice": "$48.000 bids · Time left6d 17h left  (Wed, 11:45 AM)$180.00Buy It Now+$6.07 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$6.07"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch OLED",
+            "price": "$48.000",
+            "url": "https://www.ebay.com/itm/336057901584",
+            "description": "Condition: Pre-Owned\nShipping: $6.07\nSeller: hyund-76 (24) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:26.991Z",
+                "itemId": "336057901584"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236180734501",
+        "url": "https://www.ebay.com/itm/236180734501",
+        "title": "Nintendo Switch OLED with Case, Dock, Charger Barely Used",
+        "price": "$56.006",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:27.001Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "zf9pw39 (0) 0%",
+            "location": "Located in United States",
+            "shipping": "$8.68",
+            "priceDetails": {
+                "rawPrice": "$56.006 bids · Time left20h 47m left  (Thu, 02:34 PM)+$8.68 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$8.68"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch OLED with Case, Dock, Charger Barely Used",
+            "price": "$56.006",
+            "url": "https://www.ebay.com/itm/236180734501",
+            "description": "Condition: Pre-Owned\nShipping: $8.68\nSeller: zf9pw39 (0) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:27.001Z",
+                "itemId": "236180734501"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "365716204352",
+        "url": "https://www.ebay.com/itm/365716204352",
+        "title": "NINTENDO SWITCH OLED MODEL | 64GB | HEG-001 | 2 JOY-CONS",
+        "price": "$56.0018",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:30.380Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "regencytechnologies (151,047) 99.4%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$56.0018 bids · Time left2d 23h left  (Sat, 05:00 PM)Free deliveryLocated in United StatesFree returnsSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "NINTENDO SWITCH OLED MODEL | 64GB | HEG-001 | 2 JOY-CONS",
+            "price": "$56.0018",
+            "url": "https://www.ebay.com/itm/365716204352",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: regencytechnologies (151,047) 99.4%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:30.380Z",
+                "itemId": "365716204352"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "277261159410",
+        "url": "https://www.ebay.com/itm/277261159410",
+        "title": "New Listing(S) Nintendo Switch Console Screen Only HAC-001(-01) Parts Only",
+        "price": "$59.84",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:30.382Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "patriotfindsllc (3,314) 96.6%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$59.84Buy It NowFree deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New Listing(S) Nintendo Switch Console Screen Only HAC-001(-01) Parts Only",
+            "price": "$59.84",
+            "url": "https://www.ebay.com/itm/277261159410",
+            "description": "Condition: Parts Only\nShipping: Free\nSeller: patriotfindsllc (3,314) 96.6%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:30.382Z",
+                "itemId": "277261159410"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "286690472481",
+        "url": "https://www.ebay.com/itm/286690472481",
+        "title": "nintendo switch",
+        "price": "$40.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:30.387Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "joha122576 (279) 0%",
+            "location": "Located in United States",
+            "shipping": "$8.75",
+            "priceDetails": {
+                "rawPrice": "$40.00or Best Offer+$8.75 deliveryLocated in United StatesSponsored",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$8.75"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "nintendo switch",
+            "price": "$40.00",
+            "url": "https://www.ebay.com/itm/286690472481",
+            "description": "Condition: Pre-Owned\nShipping: $8.75\nSeller: joha122576 (279) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:30.387Z",
+                "itemId": "286690472481"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "277257405481",
+        "url": "https://www.ebay.com/itm/277257405481",
+        "title": "((EMPTY  BOX ONLY )) Nintendo SWITCH 2 Mario Kart World BOX",
+        "price": "$29.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:30.390Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "shibuya-pac (1,951) 100%",
+            "location": "Located in United States",
+            "shipping": "$14.70",
+            "priceDetails": {
+                "rawPrice": "$29.99or Best Offer+$14.70 deliveryLocated in United StatesSponsored",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$14.70"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "((EMPTY  BOX ONLY )) Nintendo SWITCH 2 Mario Kart World BOX",
+            "price": "$29.99",
+            "url": "https://www.ebay.com/itm/277257405481",
+            "description": "Condition: Brand New\nShipping: $14.70\nSeller: shibuya-pac (1,951) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:30.390Z",
+                "itemId": "277257405481"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "406030701964",
+        "url": "https://www.ebay.com/itm/406030701964",
+        "title": "Nintendo Switch System/Console With Dock, Charger, Case, Accessories Tested",
+        "price": "$65.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:30.392Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "spartics (28) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.72",
+            "priceDetails": {
+                "rawPrice": "$65.000 bids · Time left5d 16h left  (Tue, 09:50 AM)or Best Offer+$9.72 deliveryLocated in United StatesSponsored",
+                "offerType": "Best Offer",
+                "isAuction": true,
+                "shipping": "$9.72"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch System/Console With Dock, Charger, Case, Accessories Tested",
+            "price": "$65.000",
+            "url": "https://www.ebay.com/itm/406030701964",
+            "description": "Condition: Pre-Owned\nShipping: $9.72\nSeller: spartics (28) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:30.392Z",
+                "itemId": "406030701964"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "405995259635",
+        "url": "https://www.ebay.com/itm/405995259635",
+        "title": "Nintendo Switch HAC-001 Handheld Console Tablet Only - Doesn’t charge ￼",
+        "price": "$90.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:30.397Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gnerdy (18) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.39",
+            "priceDetails": {
+                "rawPrice": "$90.00or Best Offer+$9.39 deliveryLocated in United StatesSponsored",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$9.39"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001 Handheld Console Tablet Only - Doesn’t charge ￼",
+            "price": "$90.00",
+            "url": "https://www.ebay.com/itm/405995259635",
+            "description": "Condition: Pre-Owned\nShipping: $9.39\nSeller: gnerdy (18) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:30.397Z",
+                "itemId": "405995259635"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357222002259",
+        "url": "https://www.ebay.com/itm/357222002259",
+        "title": "nintendo switch oled console",
+        "price": "$70.009",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:33.790Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "pba-3952 (0) 0%",
+            "location": "Located in United States",
+            "shipping": "$19.95",
+            "priceDetails": {
+                "rawPrice": "$70.009 bids · Time left1d 3h left  (Thu, 08:50 PM)+$19.95 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$19.95"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "nintendo switch oled console",
+            "price": "$70.009",
+            "url": "https://www.ebay.com/itm/357222002259",
+            "description": "Condition: Pre-Owned\nShipping: $19.95\nSeller: pba-3952 (0) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:33.790Z",
+                "itemId": "357222002259"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "406030947632",
+        "url": "https://www.ebay.com/itm/406030947632",
+        "title": "New ListingNintendo Switch, Smash brothers, Many accessories",
+        "price": "$36.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:33.792Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "asmiz40 (20) 0%",
+            "location": "Located in United States",
+            "shipping": "$15.28",
+            "priceDetails": {
+                "rawPrice": "$36.000 bids · Time left4d 1h left  (Sun, 07:46 PM)+$15.28 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$15.28"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch, Smash brothers, Many accessories",
+            "price": "$36.000",
+            "url": "https://www.ebay.com/itm/406030947632",
+            "description": "Condition: Pre-Owned\nShipping: $15.28\nSeller: asmiz40 (20) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:33.792Z",
+                "itemId": "406030947632"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "317064374536",
+        "url": "https://www.ebay.com/itm/317064374536",
+        "title": "Nintendo Switch OLED Model with Neon Blue and Red Joy-Con Including Case",
+        "price": "$51.0022",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:33.801Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "jonathaolenza_0 (111) 0%",
+            "location": "Located in United States",
+            "shipping": "$8.20",
+            "priceDetails": {
+                "rawPrice": "$51.0022 bids · Time left7d 19h left  (07/17, 12:49 PM)+$8.20 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$8.20"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch OLED Model with Neon Blue and Red Joy-Con Including Case",
+            "price": "$51.0022",
+            "url": "https://www.ebay.com/itm/317064374536",
+            "description": "Condition: Pre-Owned\nShipping: $8.20\nSeller: jonathaolenza_0 (111) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:33.801Z",
+                "itemId": "317064374536"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "297431062854",
+        "url": "https://www.ebay.com/itm/297431062854",
+        "title": "Nintendo Switch Arcade Console Housing",
+        "price": "$49.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.800Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "3dprintedfabs (40) 100%",
+            "location": "Located in United States",
+            "shipping": "$6.36",
+            "priceDetails": {
+                "rawPrice": "$49.99or Best Offer+$6.36 deliveryLocated in United States9 watchersSponsored",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$6.36"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Arcade Console Housing",
+            "price": "$49.99",
+            "url": "https://www.ebay.com/itm/297431062854",
+            "description": "Condition: Brand New\nShipping: $6.36\nSeller: 3dprintedfabs (40) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.800Z",
+                "itemId": "297431062854"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "267318803956",
+        "url": "https://www.ebay.com/itm/267318803956",
+        "title": "New ListingNintendo Switch HAC-001 Unpatched Console set A Rank Region Free 1 Day Ship 2520",
+        "price": "$61.0025",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.803Z",
+        "details": {
+            "condition": "Excellent - Refurbished",
+            "seller": "samurai_game.shop-27 (5,034) 100%",
+            "location": "Located in Japan",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$61.0025 bids · Time left4d 8h left  (Mon, 02:37 AM)Free deliveryLocated in JapanFree returns",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch HAC-001 Unpatched Console set A Rank Region Free 1 Day Ship 2520",
+            "price": "$61.0025",
+            "url": "https://www.ebay.com/itm/267318803956",
+            "description": "Condition: Excellent - Refurbished\nShipping: Free\nSeller: samurai_game.shop-27 (5,034) 100%\nLocation: Located in Japan",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.803Z",
+                "itemId": "267318803956"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "167627559837",
+        "url": "https://www.ebay.com/itm/167627559837",
+        "title": "Nintendo Switch Console w/ Gray Joy-Con Controllers & Carrying Case Original Box",
+        "price": "$51.006",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.806Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "cdgs4u2003 (22,040) 100%",
+            "location": "Located in United States",
+            "shipping": "$11.99",
+            "priceDetails": {
+                "rawPrice": "$51.006 bids · Time left5d 1h left  (Mon, 07:15 PM)+$11.99 deliveryLocated in United StatesFree returns",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$11.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console w/ Gray Joy-Con Controllers & Carrying Case Original Box",
+            "price": "$51.006",
+            "url": "https://www.ebay.com/itm/167627559837",
+            "description": "Condition: Pre-Owned\nShipping: $11.99\nSeller: cdgs4u2003 (22,040) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.806Z",
+                "itemId": "167627559837"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "226845511718",
+        "url": "https://www.ebay.com/itm/226845511718",
+        "title": "Nintendo Switch HAC‑001 (-01) Console ONLY - For Parts /Not Working – Read Desc",
+        "price": "$43.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.811Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "bringyouoffer (1,234) 98.9%",
+            "location": "Located in United States",
+            "shipping": "$5.99",
+            "priceDetails": {
+                "rawPrice": "$43.99Buy It Now+$5.99 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$5.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC‑001 (-01) Console ONLY - For Parts /Not Working – Read Desc",
+            "price": "$43.99",
+            "url": "https://www.ebay.com/itm/226845511718",
+            "description": "Condition: Parts Only\nShipping: $5.99\nSeller: bringyouoffer (1,234) 98.9%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.811Z",
+                "itemId": "226845511718"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236191581220",
+        "url": "https://www.ebay.com/itm/236191581220",
+        "title": "New ListingNintendo Switch V1 Handheld Console System  - Very Good w/ 128 GB microSD Card",
+        "price": "$23.503",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.817Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "tepmumbs (1,911) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$23.503 bids · Time left4d 22h left  (Mon, 04:42 PM)Free deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch V1 Handheld Console System  - Very Good w/ 128 GB microSD Card",
+            "price": "$23.503",
+            "url": "https://www.ebay.com/itm/236191581220",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: tepmumbs (1,911) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.817Z",
+                "itemId": "236191581220"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "326671638597",
+        "url": "https://www.ebay.com/itm/326671638597",
+        "title": "Nintendo Switch Lite Gray Bundle - Console W/ Mario Cart 8 Deluxe - Original Box",
+        "price": "$43.005",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.821Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "luxsportscards (289) 100%",
+            "location": "Located in United States",
+            "shipping": "$12.58",
+            "priceDetails": {
+                "rawPrice": "$43.005 bids · Time left1d 23h left  (Fri, 05:45 PM)+$12.58 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$12.58"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite Gray Bundle - Console W/ Mario Cart 8 Deluxe - Original Box",
+            "price": "$43.005",
+            "url": "https://www.ebay.com/itm/326671638597",
+            "description": "Condition: Pre-Owned\nShipping: $12.58\nSeller: luxsportscards (289) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.821Z",
+                "itemId": "326671638597"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "267313274155",
+        "url": "https://www.ebay.com/itm/267313274155",
+        "title": "Nintendo Switch HAC-001 Unpatched Console set A Rank Region Free 1 Day Ship 0410",
+        "price": "$82.0018",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.824Z",
+        "details": {
+            "condition": "Excellent - Refurbished",
+            "seller": "samurai_game.shop-27 (5,034) 100%",
+            "location": "Located in Japan",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$82.0018 bids · Time left1d 5h left  (Thu, 11:00 PM)Free deliveryLocated in JapanFree returns",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001 Unpatched Console set A Rank Region Free 1 Day Ship 0410",
+            "price": "$82.0018",
+            "url": "https://www.ebay.com/itm/267313274155",
+            "description": "Condition: Excellent - Refurbished\nShipping: Free\nSeller: samurai_game.shop-27 (5,034) 100%\nLocation: Located in Japan",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.824Z",
+                "itemId": "267313274155"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357243837364",
+        "url": "https://www.ebay.com/itm/357243837364",
+        "title": "Nintendo Switch Console & Games Lot - Nerf Legends, Hello Neighbor",
+        "price": "$49.991",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.826Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "shopats (25,267) 99.2%",
+            "location": "Located in United States",
+            "shipping": "$19.99",
+            "priceDetails": {
+                "rawPrice": "$49.991 bid · Time left3d 11h left  (Sun, 05:30 AM)+$19.99 deliveryLocated in United StatesFree returns",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$19.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console & Games Lot - Nerf Legends, Hello Neighbor",
+            "price": "$49.991",
+            "url": "https://www.ebay.com/itm/357243837364",
+            "description": "Condition: Pre-Owned\nShipping: $19.99\nSeller: shopats (25,267) 99.2%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.826Z",
+                "itemId": "357243837364"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127217484005",
+        "url": "https://www.ebay.com/itm/127217484005",
+        "title": "Nintendo Switch OLED Model HEG-001 Handheld Console - 64GB -Zelda joy cons",
+        "price": "$61.0015",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.828Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "gd816 (539) 97.8%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$61.0015 bids · Time left2d left  (Fri, 06:00 PM)Free deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch OLED Model HEG-001 Handheld Console - 64GB -Zelda joy cons",
+            "price": "$61.0015",
+            "url": "https://www.ebay.com/itm/127217484005",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: gd816 (539) 97.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.828Z",
+                "itemId": "127217484005"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396837241113",
+        "url": "https://www.ebay.com/itm/396837241113",
+        "title": "Wireless HoriPad for Nintendo Switch (Sonic the Hedgehog) New Special (2021)",
+        "price": "$68.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:38.831Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "katerusa1 (17,750) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$68.99Buy It NowFree deliveryLocated in United StatesFree returnsSponsored",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Wireless HoriPad for Nintendo Switch (Sonic the Hedgehog) New Special (2021)",
+            "price": "$68.99",
+            "url": "https://www.ebay.com/itm/396837241113",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: katerusa1 (17,750) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:38.831Z",
+                "itemId": "396837241113"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "317067430945",
+        "url": "https://www.ebay.com/itm/317067430945",
+        "title": "Nintendo Switch Lite Console Turquoise Tested New Joycons Read For Information",
+        "price": "$90.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:47:40.460Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "ewok-slayer (1,725) 100%",
+            "location": "Located in United States",
+            "shipping": "$12.30",
+            "priceDetails": {
+                "rawPrice": "$90.00or Best Offer+$12.30 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$12.30"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite Console Turquoise Tested New Joycons Read For Information",
+            "price": "$90.00",
+            "url": "https://www.ebay.com/itm/317067430945",
+            "description": "Condition: Pre-Owned\nShipping: $12.30\nSeller: ewok-slayer (1,725) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:47:40.460Z",
+                "itemId": "317067430945"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "187395523742",
+        "url": "https://www.ebay.com/itm/187395523742",
+        "title": "Nintendo Switch 32GB Gray Console with Neon Red and Neon Blue Joy-Con",
+        "price": "$37.500",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.010Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "vschaaf1983 (329) 100%",
+            "location": "Located in United States",
+            "shipping": "$21.69",
+            "priceDetails": {
+                "rawPrice": "$37.500 bids · Time left4d 17h left  (Mon, 11:26 AM)$150.00Buy It Now+$21.69 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$21.69"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch 32GB Gray Console with Neon Red and Neon Blue Joy-Con",
+            "price": "$37.500",
+            "url": "https://www.ebay.com/itm/187395523742",
+            "description": "Condition: Pre-Owned\nShipping: $21.69\nSeller: vschaaf1983 (329) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.010Z",
+                "itemId": "187395523742"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177250299295",
+        "url": "https://www.ebay.com/itm/177250299295",
+        "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01) With Dock",
+        "price": "$80.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.012Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "death*knight (1,082) 100%",
+            "location": "Located in United States",
+            "shipping": "$19.52",
+            "priceDetails": {
+                "rawPrice": "$80.000 bids · Time left4d 20h left  (Mon, 02:04 PM)$190.00Buy It Now+$19.52 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$19.52"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01) With Dock",
+            "price": "$80.000",
+            "url": "https://www.ebay.com/itm/177250299295",
+            "description": "Condition: Pre-Owned\nShipping: $19.52\nSeller: death*knight (1,082) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.012Z",
+                "itemId": "177250299295"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "116679205101",
+        "url": "https://www.ebay.com/itm/116679205101",
+        "title": "Nintendo Switch V2 32GB Handheld System - Gray",
+        "price": "$37.500",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.013Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "md--80 (63) 100%",
+            "location": "Located in United States",
+            "shipping": "$15.90",
+            "priceDetails": {
+                "rawPrice": "$37.500 bids · Time left1d 20h left  (Fri, 02:27 PM)$149.99Buy It Now+$15.90 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$15.90"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch V2 32GB Handheld System - Gray",
+            "price": "$37.500",
+            "url": "https://www.ebay.com/itm/116679205101",
+            "description": "Condition: Pre-Owned\nShipping: $15.90\nSeller: md--80 (63) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.013Z",
+                "itemId": "116679205101"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "205600843043",
+        "url": "https://www.ebay.com/itm/205600843043",
+        "title": "Nintendo Switch Console - Blue & Red Joy-Cons (Great Condition) With Extras",
+        "price": "$50.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.015Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "sillychamp (875) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.00",
+            "priceDetails": {
+                "rawPrice": "$50.000 bids · Time left4d left  (Sun, 06:30 PM)$149.00Buy It Now+$8.00 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$8.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console - Blue & Red Joy-Cons (Great Condition) With Extras",
+            "price": "$50.000",
+            "url": "https://www.ebay.com/itm/205600843043",
+            "description": "Condition: Pre-Owned\nShipping: $8.00\nSeller: sillychamp (875) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.015Z",
+                "itemId": "205600843043"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177250208110",
+        "url": "https://www.ebay.com/itm/177250208110",
+        "title": "Animal Crossing Switch Dock and Accessories Bundle",
+        "price": "$45.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.017Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "weebdirect (50) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.59",
+            "priceDetails": {
+                "rawPrice": "$45.00Buy It Now+$7.59 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$7.59"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Animal Crossing Switch Dock and Accessories Bundle",
+            "price": "$45.00",
+            "url": "https://www.ebay.com/itm/177250208110",
+            "description": "Condition: Pre-Owned\nShipping: $7.59\nSeller: weebdirect (50) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.017Z",
+                "itemId": "177250208110"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177240803449",
+        "url": "https://www.ebay.com/itm/177240803449",
+        "title": "Nintendo Switch- Neon Blue/Neon Red- Excellent w/ Mario Kart 8",
+        "price": "$43.650",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.020Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "apfly01 (283) 100%",
+            "location": "Located in United States",
+            "shipping": "$18.55",
+            "priceDetails": {
+                "rawPrice": "$43.650 bids · Time left3d 5h left  (Sat, 11:29 PM)$250.00Buy It Now+$18.55 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$18.55"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch- Neon Blue/Neon Red- Excellent w/ Mario Kart 8",
+            "price": "$43.650",
+            "url": "https://www.ebay.com/itm/177240803449",
+            "description": "Condition: Pre-Owned\nShipping: $18.55\nSeller: apfly01 (283) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.020Z",
+                "itemId": "177240803449"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357260297172",
+        "url": "https://www.ebay.com/itm/357260297172",
+        "title": "New ListingNintendo Switch v1 Video Game Console Only HAC-001 Read Description",
+        "price": "$85.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.022Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "cito.collectibles (203) 96.4%",
+            "location": "Located in United States",
+            "shipping": "$12.00",
+            "priceDetails": {
+                "rawPrice": "$85.00or Best Offer+$12.00 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$12.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch v1 Video Game Console Only HAC-001 Read Description",
+            "price": "$85.00",
+            "url": "https://www.ebay.com/itm/357260297172",
+            "description": "Condition: Parts Only\nShipping: $12.00\nSeller: cito.collectibles (203) 96.4%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.022Z",
+                "itemId": "357260297172"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "257009388585",
+        "url": "https://www.ebay.com/itm/257009388585",
+        "title": "New ListingNintendo Switch Lite Handheld Console - Turquoise",
+        "price": "$80.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.023Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "yppeh1 (4,586) 95.7%",
+            "location": "Located in United States",
+            "shipping": "$10.00",
+            "priceDetails": {
+                "rawPrice": "$80.99Buy It Now+$10.00 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$10.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Lite Handheld Console - Turquoise",
+            "price": "$80.99",
+            "url": "https://www.ebay.com/itm/257009388585",
+            "description": "Condition: Pre-Owned\nShipping: $10.00\nSeller: yppeh1 (4,586) 95.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.023Z",
+                "itemId": "257009388585"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "205605359035",
+        "url": "https://www.ebay.com/itm/205605359035",
+        "title": "Nintendo Switch Console Bundle with Controllers and Charger",
+        "price": "$43.050",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.025Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "svcards13 (444) 100%",
+            "location": "Located in United States",
+            "shipping": "$9.44",
+            "priceDetails": {
+                "rawPrice": "$43.050 bids · Time left5d 21h left  (Tue, 03:36 PM)$149.99Buy It Now+$9.44 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$9.44"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console Bundle with Controllers and Charger",
+            "price": "$43.050",
+            "url": "https://www.ebay.com/itm/205605359035",
+            "description": "Condition: Pre-Owned\nShipping: $9.44\nSeller: svcards13 (444) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.025Z",
+                "itemId": "205605359035"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357220325233",
+        "url": "https://www.ebay.com/itm/357220325233",
+        "title": "Nintendo Switch with White Joy-Con Controllers",
+        "price": "$52.880",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.026Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "davimud2 (10) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.00",
+            "priceDetails": {
+                "rawPrice": "$52.880 bids · Time left20h 7m left  (Thu, 01:59 PM)or Best Offer+$8.00 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": true,
+                "shipping": "$8.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch with White Joy-Con Controllers",
+            "price": "$52.880",
+            "url": "https://www.ebay.com/itm/357220325233",
+            "description": "Condition: Pre-Owned\nShipping: $8.00\nSeller: davimud2 (10) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.026Z",
+                "itemId": "357220325233"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "135690746121",
+        "url": "https://www.ebay.com/itm/135690746121",
+        "title": "Nintendo OEM Replacement Back Plate for Nintendo Switch Lite - Turquoise",
+        "price": "$9.74",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.029Z",
+        "details": {
+            "condition": "Very Good - Refurbished",
+            "seller": "simplecellllc (338,042) 99.2%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$9.74Buy It NowFree deliveryLocated in United StatesFree returnseBay Refurbished",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo OEM Replacement Back Plate for Nintendo Switch Lite - Turquoise",
+            "price": "$9.74",
+            "url": "https://www.ebay.com/itm/135690746121",
+            "description": "Condition: Very Good - Refurbished\nShipping: Free\nSeller: simplecellllc (338,042) 99.2%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.029Z",
+                "itemId": "135690746121"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "146696539751",
+        "url": "https://www.ebay.com/itm/146696539751",
+        "title": "Nintendo Switch with Gray Joy‑Con (SWITCH ONLY )",
+        "price": "$72.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.032Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "jkcomputerparts (157,460) 98.2%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$72.00or Best OfferFree deliveryLocated in United StatesFree returns",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch with Gray Joy‑Con (SWITCH ONLY )",
+            "price": "$72.00",
+            "url": "https://www.ebay.com/itm/146696539751",
+            "description": "Condition: Parts Only\nShipping: Free\nSeller: jkcomputerparts (157,460) 98.2%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.032Z",
+                "itemId": "146696539751"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "187393450864",
+        "url": "https://www.ebay.com/itm/187393450864",
+        "title": "Nintendo Switch In Great Condition All Items Included 200 Or Better Offer",
+        "price": "$50.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.035Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "lsan0-66 (0) 0%",
+            "location": "Located in United States",
+            "shipping": "$13.92",
+            "priceDetails": {
+                "rawPrice": "$50.000 bids · Time left3d 22h left  (Sun, 04:41 PM)$200.00Buy It Now+$13.92 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$13.92"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch In Great Condition All Items Included 200 Or Better Offer",
+            "price": "$50.000",
+            "url": "https://www.ebay.com/itm/187393450864",
+            "description": "Condition: Pre-Owned\nShipping: $13.92\nSeller: lsan0-66 (0) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.035Z",
+                "itemId": "187393450864"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "317058121714",
+        "url": "https://www.ebay.com/itm/317058121714",
+        "title": "USED Nintendo Switch V2 HAC-001 Video Game Console READ DESCRIPTION",
+        "price": "$60.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.037Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "scotthebrave (22) 100%",
+            "location": "Located in United States",
+            "shipping": "$6.69",
+            "priceDetails": {
+                "rawPrice": "$60.000 bids · Time left2d 14h left  (Sat, 08:30 AM)$120.00Buy It Now+$6.69 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$6.69"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "USED Nintendo Switch V2 HAC-001 Video Game Console READ DESCRIPTION",
+            "price": "$60.000",
+            "url": "https://www.ebay.com/itm/317058121714",
+            "description": "Condition: Pre-Owned\nShipping: $6.69\nSeller: scotthebrave (22) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.037Z",
+                "itemId": "317058121714"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "226852726663",
+        "url": "https://www.ebay.com/itm/226852726663",
+        "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01)",
+        "price": "$40.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.039Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "geoguten-0 (0) 0%",
+            "location": "Located in United States",
+            "shipping": "$9.44",
+            "priceDetails": {
+                "rawPrice": "$40.000 bids · Time left3d 23h left  (Sun, 05:43 PM)$149.99Buy It Now+$9.44 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$9.44"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch with Neon Blue and Neon Red Joy-Con (HAC-001-01)",
+            "price": "$40.000",
+            "url": "https://www.ebay.com/itm/226852726663",
+            "description": "Condition: Pre-Owned\nShipping: $9.44\nSeller: geoguten-0 (0) 0%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.039Z",
+                "itemId": "226852726663"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "336058221426",
+        "url": "https://www.ebay.com/itm/336058221426",
+        "title": "New ListingNintendo Switch Lite  HDH-001 FOR PARTS OR REPAIR",
+        "price": "$48.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.043Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "wapets (245) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.71",
+            "priceDetails": {
+                "rawPrice": "$48.00Buy It Now+$8.71 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$8.71"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Lite  HDH-001 FOR PARTS OR REPAIR",
+            "price": "$48.00",
+            "url": "https://www.ebay.com/itm/336058221426",
+            "description": "Condition: Parts Only\nShipping: $8.71\nSeller: wapets (245) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.043Z",
+                "itemId": "336058221426"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357232039778",
+        "url": "https://www.ebay.com/itm/357232039778",
+        "title": "Nintendo Switch w/ Razer headset & Original Box, Joycons, Dock",
+        "price": "$70.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.045Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "wxat5937 (18) 100%",
+            "location": "Located in United States",
+            "shipping": "$21.69",
+            "priceDetails": {
+                "rawPrice": "$70.000 bids · Time left5d 22h left  (Tue, 04:17 PM)$140.00Buy It Now+$21.69 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$21.69"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch w/ Razer headset & Original Box, Joycons, Dock",
+            "price": "$70.000",
+            "url": "https://www.ebay.com/itm/357232039778",
+            "description": "Condition: Pre-Owned\nShipping: $21.69\nSeller: wxat5937 (18) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.045Z",
+                "itemId": "357232039778"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236180965874",
+        "url": "https://www.ebay.com/itm/236180965874",
+        "title": "Nintendo Switch HAC-001 Bundle - 128GB Memory Card, Case, Dock, Controllers, etc",
+        "price": "$62.002",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.048Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "cal-3907 (9) 100%",
+            "location": "Located in United States",
+            "shipping": "$14.99",
+            "priceDetails": {
+                "rawPrice": "$62.002 bids · Time left1d left  (Thu, 06:16 PM)+$14.99 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$14.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch HAC-001 Bundle - 128GB Memory Card, Case, Dock, Controllers, etc",
+            "price": "$62.002",
+            "url": "https://www.ebay.com/itm/236180965874",
+            "description": "Condition: Pre-Owned\nShipping: $14.99\nSeller: cal-3907 (9) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.048Z",
+                "itemId": "236180965874"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "395189204353",
+        "url": "https://www.ebay.com/itm/395189204353",
+        "title": "Super Mario Bros. Wonder & Super Mario Odyssey Switch New Game Special Bundle",
+        "price": "$87.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.051Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "katerusa1 (17,750) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$87.99Buy It NowFree deliveryLocated in United StatesFree returns71 watchers",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Super Mario Bros. Wonder & Super Mario Odyssey Switch New Game Special Bundle",
+            "price": "$87.99",
+            "url": "https://www.ebay.com/itm/395189204353",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: katerusa1 (17,750) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.051Z",
+                "itemId": "395189204353"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396340728328",
+        "url": "https://www.ebay.com/itm/396340728328",
+        "title": "Xenoblade Chronicles X: Definitive Edition [Multi-Language] Switch New Special",
+        "price": "$53.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:37.058Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "katerusa1 (17,750) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$53.99Buy It NowFree deliveryLocated in United StatesFree returns88 sold",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Xenoblade Chronicles X: Definitive Edition [Multi-Language] Switch New Special",
+            "price": "$53.99",
+            "url": "https://www.ebay.com/itm/396340728328",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: katerusa1 (17,750) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:37.058Z",
+                "itemId": "396340728328"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "167611094499",
+        "url": "https://www.ebay.com/itm/167611094499",
+        "title": "Nintendo Switch v2 Video Game Console Only HAC-001 (-01) For Parts",
+        "price": "$74.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:41.776Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "8ten1944 (248,426) 99.4%",
+            "location": "Located in United States",
+            "shipping": "$19.95",
+            "priceDetails": {
+                "rawPrice": "$74.99List price: $95.9922% offBuy It NowFree delivery Tue, Jul 15+$19.95 delivery in 2-4 daysLocated in United StatesFree returns",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$19.95"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch v2 Video Game Console Only HAC-001 (-01) For Parts",
+            "price": "$74.99",
+            "url": "https://www.ebay.com/itm/167611094499",
+            "description": "Condition: Pre-Owned\nShipping: $19.95\nSeller: 8ten1944 (248,426) 99.4%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:41.776Z",
+                "itemId": "167611094499"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "187388234665",
+        "url": "https://www.ebay.com/itm/187388234665",
+        "title": "Nintendo Switch Console Bundle HAC-001 (-01) Original Box Matching Serial # VGC",
+        "price": "$49.991",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:41.781Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "maknoffer (2,809) 98.9%",
+            "location": "Located in United States",
+            "shipping": "$14.99",
+            "priceDetails": {
+                "rawPrice": "$49.991 bid · Time left1d 23h left  (Fri, 05:00 PM)+$14.99 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$14.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console Bundle HAC-001 (-01) Original Box Matching Serial # VGC",
+            "price": "$49.991",
+            "url": "https://www.ebay.com/itm/187388234665",
+            "description": "Condition: Pre-Owned\nShipping: $14.99\nSeller: maknoffer (2,809) 98.9%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:41.781Z",
+                "itemId": "187388234665"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "205607084096",
+        "url": "https://www.ebay.com/itm/205607084096",
+        "title": "New ListingNintendo Switch Console Tablet Only (Parts/Repair)",
+        "price": "$50.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:41.784Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "desktoprecords (104) 100%",
+            "location": "Located in United States",
+            "shipping": "$6.36",
+            "priceDetails": {
+                "rawPrice": "$50.00or Best Offer+$6.36 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$6.36"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Console Tablet Only (Parts/Repair)",
+            "price": "$50.00",
+            "url": "https://www.ebay.com/itm/205607084096",
+            "description": "Condition: Parts Only\nShipping: $6.36\nSeller: desktoprecords (104) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:41.784Z",
+                "itemId": "205607084096"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "277260591893",
+        "url": "https://www.ebay.com/itm/277260591893",
+        "title": "New ListingNintendo Switch OLED Model HEG-001 Console - 64GB - White",
+        "price": "$41.003",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:43.221Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "platinum_computers (2,938) 100%",
+            "location": "Located in Canada",
+            "shipping": "$21.96",
+            "priceDetails": {
+                "rawPrice": "$41.003 bids · Time left4d 21h left  (Mon, 03:00 PM)+$21.96 deliveryLocated in Canada",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$21.96"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch OLED Model HEG-001 Console - 64GB - White",
+            "price": "$41.003",
+            "url": "https://www.ebay.com/itm/277260591893",
+            "description": "Condition: Pre-Owned\nShipping: $21.96\nSeller: platinum_computers (2,938) 100%\nLocation: Located in Canada",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:43.221Z",
+                "itemId": "277260591893"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "267303887217",
+        "url": "https://www.ebay.com/itm/267303887217",
+        "title": "Nintendo Switch OLED Assorted Accessories Lot Bundle READ DESCRIPTION",
+        "price": "$80.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:43.225Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "the-black-swordsman (508) 100%",
+            "location": "Located in United States",
+            "shipping": "$8.00",
+            "priceDetails": {
+                "rawPrice": "$80.00Buy It Now+$8.00 deliveryLocated in United States17 watchers",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "$8.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch OLED Assorted Accessories Lot Bundle READ DESCRIPTION",
+            "price": "$80.00",
+            "url": "https://www.ebay.com/itm/267303887217",
+            "description": "Condition: Pre-Owned\nShipping: $8.00\nSeller: the-black-swordsman (508) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:43.225Z",
+                "itemId": "267303887217"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "157149947744",
+        "url": "https://www.ebay.com/itm/157149947744",
+        "title": "Nintendo Switch Console With Accessories",
+        "price": "$69.990",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T00:52:56.574Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "vabael2011 (751) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$69.990 bids · Time left2d 19h left  (Sat, 01:39 PM)or Best OfferFree deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console With Accessories",
+            "price": "$69.990",
+            "url": "https://www.ebay.com/itm/157149947744",
+            "description": "Condition: Pre-Owned\nShipping: Free\nSeller: vabael2011 (751) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T00:52:56.574Z",
+                "itemId": "157149947744"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "406034636071",
+        "url": "https://www.ebay.com/itm/406034636071",
+        "title": "New ListingNintendo HAC-001 32GB Switch Console - Black",
+        "price": "$60.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.281Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "ke42985 (85) 100%",
+            "location": "Located in United States",
+            "shipping": "$6.22",
+            "priceDetails": {
+                "rawPrice": "$60.00or Best Offer+$6.22 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$6.22"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo HAC-001 32GB Switch Console - Black",
+            "price": "$60.00",
+            "url": "https://www.ebay.com/itm/406034636071",
+            "description": "Condition: Parts Only\nShipping: $6.22\nSeller: ke42985 (85) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.281Z",
+                "itemId": "406034636071"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "365720420264",
+        "url": "https://www.ebay.com/itm/365720420264",
+        "title": "New ListingWOW!! Nintendo Switch HAC-001(-01) Video Game Console with Red & Blue Joycon",
+        "price": "$69.990",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.292Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "fastcashogden630 (6,622) 99.7%",
+            "location": "Located in United States",
+            "shipping": "$16.00",
+            "priceDetails": {
+                "rawPrice": "$69.990 bids · Time left6d 20h left  (Wed, 06:00 PM)+$16.00 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$16.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingWOW!! Nintendo Switch HAC-001(-01) Video Game Console with Red & Blue Joycon",
+            "price": "$69.990",
+            "url": "https://www.ebay.com/itm/365720420264",
+            "description": "Condition: Pre-Owned\nShipping: $16.00\nSeller: fastcashogden630 (6,622) 99.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.292Z",
+                "itemId": "365720420264"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "376387953087",
+        "url": "https://www.ebay.com/itm/376387953087",
+        "title": "Nintendo Switch Lite HDH-101 FOR PARTS/Blue Screen",
+        "price": "$50.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.300Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "andrequee-0 (22) 100%",
+            "location": "Located in United States",
+            "shipping": "$7.01",
+            "priceDetails": {
+                "rawPrice": "$50.00or Best Offer+$7.01 deliveryLocated in United StatesSponsored",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$7.01"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite HDH-101 FOR PARTS/Blue Screen",
+            "price": "$50.00",
+            "url": "https://www.ebay.com/itm/376387953087",
+            "description": "Condition: Parts Only\nShipping: $7.01\nSeller: andrequee-0 (22) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.300Z",
+                "itemId": "376387953087"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396843100628",
+        "url": "https://www.ebay.com/itm/396843100628",
+        "title": "New ListingNintendo Switch HAC‑001 (-01) Console ONLY - For Parts /or Repair Read Des",
+        "price": "$0.990",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.310Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "tcgchamps (83) 98.8%",
+            "location": "Located in United States",
+            "shipping": "$8.71",
+            "priceDetails": {
+                "rawPrice": "$0.990 bids · Time left4d 22h left  (Mon, 07:05 PM)+$8.71 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$8.71"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch HAC‑001 (-01) Console ONLY - For Parts /or Repair Read Des",
+            "price": "$0.990",
+            "url": "https://www.ebay.com/itm/396843100628",
+            "description": "Condition: Pre-Owned\nShipping: $8.71\nSeller: tcgchamps (83) 98.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.310Z",
+                "itemId": "396843100628"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "336045607263",
+        "url": "https://www.ebay.com/itm/336045607263",
+        "title": "Nintendo Switch Console HAC-001 w/ Case (Console Only)",
+        "price": "$38.0038",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.315Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "sellewing (3,855) 99.7%",
+            "location": "Located in United States",
+            "shipping": "$9.99",
+            "priceDetails": {
+                "rawPrice": "$38.0038 bids · Time left21h 57m left  (Thu, 07:00 PM)+$9.99 deliveryLocated in United StatesFree returns",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$9.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Console HAC-001 w/ Case (Console Only)",
+            "price": "$38.0038",
+            "url": "https://www.ebay.com/itm/336045607263",
+            "description": "Condition: Pre-Owned\nShipping: $9.99\nSeller: sellewing (3,855) 99.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.315Z",
+                "itemId": "336045607263"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "177255196587",
+        "url": "https://www.ebay.com/itm/177255196587",
+        "title": "New ListingNintendo Switch Lite HDH-001 Handheld Gaming Console 32 Gig Coral Pink",
+        "price": "$90.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.319Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "chickenfin (77) 94.1%",
+            "location": "Located in United States",
+            "shipping": "$10.00",
+            "priceDetails": {
+                "rawPrice": "$90.00or Best Offer+$10.00 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$10.00"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Lite HDH-001 Handheld Gaming Console 32 Gig Coral Pink",
+            "price": "$90.00",
+            "url": "https://www.ebay.com/itm/177255196587",
+            "description": "Condition: Pre-Owned\nShipping: $10.00\nSeller: chickenfin (77) 94.1%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.319Z",
+                "itemId": "177255196587"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "365718465275",
+        "url": "https://www.ebay.com/itm/365718465275",
+        "title": "New ListingNintendo Switch OLED HEG-001 Handheld Console 64GB Bundle",
+        "price": "$0.990",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.323Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "sfpawn (5,500) 99.8%",
+            "location": "Located in United States",
+            "shipping": "$14.99",
+            "priceDetails": {
+                "rawPrice": "$0.990 bids · Time left6d 21h left  (Wed, 07:00 PM)+$14.99 deliveryLocated in United StatesFree returns",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$14.99"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch OLED HEG-001 Handheld Console 64GB Bundle",
+            "price": "$0.990",
+            "url": "https://www.ebay.com/itm/365718465275",
+            "description": "Condition: Pre-Owned\nShipping: $14.99\nSeller: sfpawn (5,500) 99.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.323Z",
+                "itemId": "365718465275"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "127219911086",
+        "url": "https://www.ebay.com/itm/127219911086",
+        "title": "Nintendo Switch Lite - Handheld Console - 32GB - Blue - No Box - VG",
+        "price": "$81.0027",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.326Z",
+        "details": {
+            "condition": "Very Good - Refurbished",
+            "seller": "goldstar_tech (287,245) 99.3%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$81.0027 bids · Time left22h 4m left  (Thu, 07:07 PM)Free deliveryLocated in United StatesFree returnseBay Refurbished",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite - Handheld Console - 32GB - Blue - No Box - VG",
+            "price": "$81.0027",
+            "url": "https://www.ebay.com/itm/127219911086",
+            "description": "Condition: Very Good - Refurbished\nShipping: Free\nSeller: goldstar_tech (287,245) 99.3%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.326Z",
+                "itemId": "127219911086"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "357245500689",
+        "url": "https://www.ebay.com/itm/357245500689",
+        "title": "Nintendo Switch V2 HAC-001 Tablet Only - Tested & Working",
+        "price": "$89.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.331Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "skrilltech (3,102) 99.5%",
+            "location": "Located in United States",
+            "shipping": "$11.40",
+            "priceDetails": {
+                "rawPrice": "$89.99or Best Offer+$11.40 deliveryLocated in United States",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$11.40"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch V2 HAC-001 Tablet Only - Tested & Working",
+            "price": "$89.99",
+            "url": "https://www.ebay.com/itm/357245500689",
+            "description": "Condition: Pre-Owned\nShipping: $11.40\nSeller: skrilltech (3,102) 99.5%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.331Z",
+                "itemId": "357245500689"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "236189666470",
+        "url": "https://www.ebay.com/itm/236189666470",
+        "title": "Super Mario Red Edition Nintendo Switch",
+        "price": "$42.001",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:29.335Z",
+        "details": {
+            "condition": "Open Box",
+            "seller": "dchowerton1993 (4) 100%",
+            "location": "Located in United States",
+            "shipping": "$10.52",
+            "priceDetails": {
+                "rawPrice": "$42.001 bid · Time left5d 18h left  (Tue, 03:11 PM)+$10.52 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$10.52"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Super Mario Red Edition Nintendo Switch",
+            "price": "$42.001",
+            "url": "https://www.ebay.com/itm/236189666470",
+            "description": "Condition: Open Box\nShipping: $10.52\nSeller: dchowerton1993 (4) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:29.335Z",
+                "itemId": "236189666470"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "197510920053",
+        "url": "https://www.ebay.com/itm/197510920053",
+        "title": "Nintendo Switch Lite Turquoise Handheld, 4 Games, Grip, Travel Case & Charger",
+        "price": "$75.001",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:30.436Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "tomp8628 (133) 100%",
+            "location": "Located in United States",
+            "shipping": "$6.53",
+            "priceDetails": {
+                "rawPrice": "$75.001 bid · Time left3d 17h left  (Sun, 02:48 PM)+$6.53 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$6.53"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite Turquoise Handheld, 4 Games, Grip, Travel Case & Charger",
+            "price": "$75.001",
+            "url": "https://www.ebay.com/itm/197510920053",
+            "description": "Condition: Pre-Owned\nShipping: $6.53\nSeller: tomp8628 (133) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:30.436Z",
+                "itemId": "197510920053"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "146695110132",
+        "url": "https://www.ebay.com/itm/146695110132",
+        "title": "Nintendo Switch Lite (HDH-001) 32GB Yellow (Wi-Fi Only) READ DESCRIPTION",
+        "price": "$58.79",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:30.439Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "iwireless2050 (12,610) 96.8%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$58.79Was: $209.9572% offor Best OfferFree deliveryLocated in United StatesFree returnsSponsored",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch Lite (HDH-001) 32GB Yellow (Wi-Fi Only) READ DESCRIPTION",
+            "price": "$58.79",
+            "url": "https://www.ebay.com/itm/146695110132",
+            "description": "Condition: Parts Only\nShipping: Free\nSeller: iwireless2050 (12,610) 96.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:30.439Z",
+                "itemId": "146695110132"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "226751449527",
+        "url": "https://www.ebay.com/itm/226751449527",
+        "title": "Nintendo Switch 32GB Grade D (Console ONLY) - READ",
+        "price": "$84.00",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:39.466Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "freegeek_portland (9,955) 99.4%",
+            "location": "Located in United States",
+            "shipping": "$9.39",
+            "priceDetails": {
+                "rawPrice": "$84.00Was: $120.0030% offor Best Offer+$9.39 deliveryLocated in United StatesBenefits charity10 watchers",
+                "offerType": "Best Offer",
+                "isAuction": false,
+                "shipping": "$9.39"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Nintendo Switch 32GB Grade D (Console ONLY) - READ",
+            "price": "$84.00",
+            "url": "https://www.ebay.com/itm/226751449527",
+            "description": "Condition: Pre-Owned\nShipping: $9.39\nSeller: freegeek_portland (9,955) 99.4%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:39.466Z",
+                "itemId": "226751449527"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "197514784511",
+        "url": "https://www.ebay.com/itm/197514784511",
+        "title": "New ListingNintendo Switch V1 (HAC-001) 32GB Handheld System - Black",
+        "price": "$33.001",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:41.635Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "kdoe1706 (61) 100%",
+            "location": "Located in United States",
+            "shipping": "$18.02",
+            "priceDetails": {
+                "rawPrice": "$33.001 bid · Time left6d 21h left  (Wed, 06:59 PM)+$18.02 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$18.02"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch V1 (HAC-001) 32GB Handheld System - Black",
+            "price": "$33.001",
+            "url": "https://www.ebay.com/itm/197514784511",
+            "description": "Condition: Pre-Owned\nShipping: $18.02\nSeller: kdoe1706 (61) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:41.635Z",
+                "itemId": "197514784511"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "167636513771",
+        "url": "https://www.ebay.com/itm/167636513771",
+        "title": "[FREE WALL MOUNT] Nintendo Switch HAC-001(-01) Console with Gray Joy‑Con",
+        "price": "$80.000",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:41.639Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "czou5283 (64) 100%",
+            "location": "Located in United States",
+            "shipping": "$19.10",
+            "priceDetails": {
+                "rawPrice": "$80.000 bids · Time left5d 23h left  (Tue, 08:28 PM)$160.00Buy It Now+$19.10 deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$19.10"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "[FREE WALL MOUNT] Nintendo Switch HAC-001(-01) Console with Gray Joy‑Con",
+            "price": "$80.000",
+            "url": "https://www.ebay.com/itm/167636513771",
+            "description": "Condition: Pre-Owned\nShipping: $19.10\nSeller: czou5283 (64) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:41.639Z",
+                "itemId": "167636513771"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "406034285779",
+        "url": "https://www.ebay.com/itm/406034285779",
+        "title": "New ListingNintendo Switch Console HAC-001 32GB Tablet Only No Power AS IS",
+        "price": "$49.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:41.642Z",
+        "details": {
+            "condition": "Parts Only",
+            "seller": "cashking_41 (503) 98.7%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$49.99Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "New ListingNintendo Switch Console HAC-001 32GB Tablet Only No Power AS IS",
+            "price": "$49.99",
+            "url": "https://www.ebay.com/itm/406034285779",
+            "description": "Condition: Parts Only\nShipping: Free\nSeller: cashking_41 (503) 98.7%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:41.642Z",
+                "itemId": "406034285779"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "395109042417",
+        "url": "https://www.ebay.com/itm/395109042417",
+        "title": "The Legend of Zelda: Tears of the Kingdom Switch Nintendo Sealed New Game (2023)",
+        "price": "$52.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:41.648Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "katerusa1 (17,753) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$52.99Buy It NowFree deliveryLocated in United StatesFree returns365 sold",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "The Legend of Zelda: Tears of the Kingdom Switch Nintendo Sealed New Game (2023)",
+            "price": "$52.99",
+            "url": "https://www.ebay.com/itm/395109042417",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: katerusa1 (17,753) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:41.648Z",
+                "itemId": "395109042417"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "405323361642",
+        "url": "https://www.ebay.com/itm/405323361642",
+        "title": "For Nintendo Switch JoyCon (L)/(R) Controller Joystick Wireless Gamepad 10 Color",
+        "price": "$23.89",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:49.481Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "superplaying (500) 98.8%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$23.89 to $25.99Buy It NowFree deliveryLocated in United States",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "For Nintendo Switch JoyCon (L)/(R) Controller Joystick Wireless Gamepad 10 Color",
+            "price": "$23.89",
+            "url": "https://www.ebay.com/itm/405323361642",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: superplaying (500) 98.8%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:49.481Z",
+                "itemId": "405323361642"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "277248146259",
+        "url": "https://www.ebay.com/itm/277248146259",
+        "title": "Used Nintendo Switch (HAC-001-01) Bundle w/ Four Joy-Cons & Lots of Accessories",
+        "price": "$70.005",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:49.490Z",
+        "details": {
+            "condition": "Pre-Owned",
+            "seller": "jasd2d (68) 100%",
+            "location": "Located in United States",
+            "shipping": "$10.94",
+            "priceDetails": {
+                "rawPrice": "$70.005 bids · Time left2d 20h left  (Sat, 05:09 PM)+$10.94 deliveryLocated in United StatesSponsored",
+                "offerType": "",
+                "isAuction": true,
+                "shipping": "$10.94"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Used Nintendo Switch (HAC-001-01) Bundle w/ Four Joy-Cons & Lots of Accessories",
+            "price": "$70.005",
+            "url": "https://www.ebay.com/itm/277248146259",
+            "description": "Condition: Pre-Owned\nShipping: $10.94\nSeller: jasd2d (68) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:49.490Z",
+                "itemId": "277248146259"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396813572355",
+        "url": "https://www.ebay.com/itm/396813572355",
+        "title": "Kemco RPG Selection Vol. 10 (Multi-Language) Switch New Game Special [2025 RPG]",
+        "price": "$42.99",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:03:56.850Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "katerusa1 (17,753) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$42.99Buy It NowFree deliveryLocated in United StatesFree returns",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Kemco RPG Selection Vol. 10 (Multi-Language) Switch New Game Special [2025 RPG]",
+            "price": "$42.99",
+            "url": "https://www.ebay.com/itm/396813572355",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: katerusa1 (17,753) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:03:56.850Z",
+                "itemId": "396813572355"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    },
+    {
+        "id": "396795012263",
+        "url": "https://www.ebay.com/itm/396795012263",
+        "title": "Tetris Forever Switch Brand New Game Special (2025 Platform)",
+        "price": "$38.72",
+        "imageUrl": "IMAGE_DISABLED",
+        "foundAt": "2025-07-10T04:04:01.056Z",
+        "details": {
+            "condition": "Brand New",
+            "seller": "katerusa1 (17,753) 100%",
+            "location": "Located in United States",
+            "shipping": "Free",
+            "priceDetails": {
+                "rawPrice": "$38.72Buy It NowFree deliveryLocated in United StatesFree returnsLast one7 watchers",
+                "offerType": "",
+                "isAuction": false,
+                "shipping": "Free"
+            }
+        },
+        "data": {
+            "image": "IMAGE_DISABLED",
+            "title": "Tetris Forever Switch Brand New Game Special (2025 Platform)",
+            "price": "$38.72",
+            "url": "https://www.ebay.com/itm/396795012263",
+            "description": "Condition: Brand New\nShipping: Free\nSeller: katerusa1 (17,753) 100%\nLocation: Located in United States",
+            "metadata": {
+                "foundAt": "2025-07-10T04:04:01.056Z",
+                "itemId": "396795012263"
+            }
+        },
+        "annotations": [],
+        "predictions": []
+    }
+]

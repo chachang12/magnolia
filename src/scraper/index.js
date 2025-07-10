@@ -18,7 +18,9 @@ const require = createRequire(import.meta.url);
 const cheerio = require('cheerio');
 
 const clearTerminal = () => {
-  exec('clear', (error, stdout, stderr) => {
+  const clearCmd = process.platform === 'win32' ? 'cls' : 'clear';
+  
+  exec(clearCmd, (error, stdout, stderr) => {
     if (error) {
       console.error(`Error clearing terminal: ${error.message}`);
       return;
@@ -31,17 +33,45 @@ const clearTerminal = () => {
   });
 };
 
-const saveNotification = async (message) => {
+const saveNotification = async (message, botToken, chatId, notificationsFilePath = null) => {
   try {
-    const notifications = JSON.parse(fs.readFileSync(notificationsPath, 'utf-8'));
+    // Save to local notifications file
+    const notifPath = notificationsFilePath || notificationsPath;
+    const notifications = JSON.parse(fs.readFileSync(notifPath, 'utf-8'));
     notifications.push({
       message,
       timestamp: new Date().toISOString()
     });
-    fs.writeFileSync(notificationsPath, JSON.stringify(notifications, null, 4), 'utf-8');
+    fs.writeFileSync(notifPath, JSON.stringify(notifications, null, 4), 'utf-8');
     console.log(`Notification saved: ${message.substring(0, 50)}...`);
+
+    // Send to Telegram if bot token and chat ID are provided
+    if (botToken && chatId) {
+      await sendTelegramNotification(message, botToken, chatId);
+    }
   } catch (error) {
     console.error(`Error saving notification: ${error.message}`);
+  }
+};
+
+const sendTelegramNotification = async (message, botToken, chatId) => {
+  try {
+    const telegramUrl = `https://api.telegram.org/bot${botToken}/sendMessage`;
+    const payload = {
+      chat_id: chatId,
+      text: message,
+      parse_mode: 'HTML'
+    };
+
+    const response = await axios.post(telegramUrl, payload);
+    
+    if (response.data.ok) {
+      console.log('Telegram notification sent successfully');
+    } else {
+      console.error('Failed to send Telegram notification:', response.data.description);
+    }
+  } catch (error) {
+    console.error('Error sending Telegram notification:', error.message);
   }
 };
 
@@ -86,13 +116,19 @@ const parsePriceInfo = (priceText) => {
   return priceInfo;
 };
 
-const scrapeData = async (url) => {
+const scrapeData = async (url, botToken, chatId, botDataPaths = null) => {
   try {
     const response = await axios.get(url, { headers });
     const $ = cheerio.load(response.data);
     const items = $('ul.srp-results.srp-grid.clearfix li[data-viewport], li.s-item.s-item__pl-on-bottom[id]');
-    const temp = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    const mlData = JSON.parse(fs.readFileSync(mlDataPath, 'utf-8'));
+    
+    // Use bot-specific data paths if provided, otherwise use default paths
+    const dataPath = botDataPaths?.dataPath || filePath;
+    const mlDataFilePath = botDataPaths?.mlDataPath || mlDataPath;
+    const notificationsFilePath = botDataPaths?.notificationsPath || notificationsPath;
+    
+    const temp = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+    const mlData = JSON.parse(fs.readFileSync(mlDataFilePath, 'utf-8'));
     let newItemsAdded = false;
 
     items.each((index, item) => {
@@ -139,21 +175,21 @@ const scrapeData = async (url) => {
           console.log(`Price: ${priceInfo.price} (extracted from "${rawPriceText}")`);
           
           // Save notification (existing behavior)
-          saveNotification(value);
+          saveNotification(value, botToken, chatId, notificationsFilePath);
           
           // Add to ML dataset
           mlData.push(listingModel);
           newItemsAdded = true;
           
           // Update tracking file (existing behavior)
-          fs.writeFileSync(filePath, JSON.stringify(temp, null, 4), 'utf-8');
+          fs.writeFileSync(dataPath, JSON.stringify(temp, null, 4), 'utf-8');
         }
       }
     });
     
     // Only write to ML data file if new items were added
     if (newItemsAdded) {
-      fs.writeFileSync(mlDataPath, JSON.stringify(mlData, null, 4), 'utf-8');
+      fs.writeFileSync(mlDataFilePath, JSON.stringify(mlData, null, 4), 'utf-8');
       console.log(`ML data updated with new items. Total items: ${mlData.length}`);
     }
     
@@ -162,20 +198,35 @@ const scrapeData = async (url) => {
   }
 };
 
-export const startScraper = async (url) => {
+export const startScraper = async (url, botToken, chatId, botDataPaths = null) => {
   if (!url) {
     console.error('Error: No URL provided. Please provide a URL as a command line argument.');
     process.exit(1);
   }
 
+  if (!botToken || !chatId) {
+    console.error('Error: Bot token and chat ID are required for Telegram notifications.');
+    process.exit(1);
+  }
+
   console.log(`Starting scraper with URL: ${url}`);
+  console.log(`Bot Token: ${botToken.substring(0, 10)}...`);
+  console.log(`Chat ID: ${chatId}`);
+  
+  // Log data paths for debugging
+  if (botDataPaths) {
+    console.log(`Bot Data Paths:`);
+    console.log(`  Data: ${botDataPaths.dataPath}`);
+    console.log(`  ML Data: ${botDataPaths.mlDataPath}`);
+    console.log(`  Notifications: ${botDataPaths.notificationsPath}`);
+  }
   
   let NR = 1;
   let FS_ = 1;
 
   while (true) {
     try {
-      await scrapeData(url);
+      await scrapeData(url, botToken, chatId, botDataPaths);
       NR += 1;
       console.log('All requests completed.');
 
@@ -186,13 +237,15 @@ export const startScraper = async (url) => {
 
         if (FS_ % 8640 === 0 && FS_ !== 0) {
           const MD_V = `Total requests made today: ${FS_}  ::${new Date().toISOString()}`;
-          saveNotification(MD_V);
+          const notifPath = botDataPaths?.notificationsPath || notificationsPath;
+          saveNotification(MD_V, botToken, chatId, notifPath);
           FS_ = 0;
         }
       }
     } catch (error) {
       console.error(`ERROR :::: ${error.message}`);
-      saveNotification('ISSUE FOUND Restarting');
+      const notifPath = botDataPaths?.notificationsPath || notificationsPath;
+      saveNotification('ISSUE FOUND Restarting', botToken, chatId, notifPath);
     }
   }
 };

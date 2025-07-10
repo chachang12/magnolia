@@ -1,0 +1,22 @@
+[
+    {
+        "id": "bot_1752120207537_bsk5pb8n1",
+        "name": "Nintendo Switches",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=nintendo%20switch&_sacat=0&_from=R40&rt=nc&_udhi=90",
+        "description": "",
+        "botToken": "8184914828:AAHWrewbsMzl4L9r_T5IdFOeQUQZm0RPhbE",
+        "chatId": "7180625231",
+        "createdAt": "2025-07-10T04:03:27.537Z",
+        "status": "starting"
+    },
+    {
+        "id": "bot_1752121128222_b8a20le3a",
+        "name": "Nintendo Switch",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=nintendo+switch+console&_ex_kw=parts+lot+games+&_sacat=0&_udhi=80&LH_BIN=1&LH_ItemCondition=3000&_sop=10",
+        "description": "",
+        "botToken": "8024602626:AAH8LcbpvYEHxQWFrezQXgHoqdNxCphei-k",
+        "chatId": "7443263191",
+        "createdAt": "2025-07-10T04:18:48.222Z",
+        "status": "starting"
+    }
+]

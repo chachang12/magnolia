@@ -1,0 +1,1 @@
+node scraper-only.js "https://www.ebay.com/sch/i.html?_nkw=nintendo%20switch&_sacat=0&_from=R40&rt=nc&_udhi=90"
